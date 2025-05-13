@@ -1,0 +1,1964 @@
+node,model,text,date,novelty,ground_truth,formula
+L0,GPT,"Equipment Needed:
+
+1 flat circular board (drawn in sand or carved into wood) divided into a sunburst pattern with 12 outer circles (like petals) and a central circle.
+
+20 small stones per player (representing ""Lions"")
+
+1 larger central stone (the ""Prey"")
+
+Setup:
+Each player chooses a color of stones (can be differentiated by material, markings, or shape).
+
+The larger central ""Prey"" stone is placed in the middle circle.
+
+Players place 5 of their Lion stones on outer circles opposite their position around the board.
+
+Objective:
+To control the central ""Prey"" stone by outmaneuvering or outlasting the other players’ Lion stones.
+
+How to Play:
+Turn-Based Movement: Players take turns moving one Lion at a time, either:
+
+Into an adjacent circle
+
+Or jumping over an opponent’s Lion into an empty circle beyond (capturing the jumped piece, similar to checkers)
+
+Claiming the Prey:
+
+If a player moves one of their Lions into the central circle, they now control the ""Prey"".
+
+However, any Lion in the center is vulnerable to attack from all directions.
+
+Defending the Prey:
+
+To ""hold the prey,"" a player must keep at least 2 Lions adjacent to the center.
+
+If another player captures the Lion in the center, they gain control.
+
+Winning the Game:
+
+A player wins by:
+
+Holding the Prey stone for 3 full rounds (all players’ turns), or
+
+Being the last player with Lions remaining.",2025,9.782068252563477,4.0,exp_decay
+L1,GPT,"Players are wandering griots (storytellers) traveling across villages along the Niger River. They compete to collect the most Tales of Wisdom by gathering Story Stones, gained through challenges of memory, riddles, music, and quick thinking.
+
+Materials Needed (traditionally improvable):
+20 small stones or seeds (representing Story Stones)
+
+A cloth board with 5 drawn villages (can be marked in the dirt or on cloth)
+
+Hand drums or clapping (for rhythm-based challenges)
+
+A carved stick or token (used as the Griot Staff, passed between turns)
+
+Setup:
+Place 4 Story Stones in each village.
+
+Players sit in a circle. The Griot Staff starts with the youngest player.
+
+Each player chooses a symbol (animal or totem) to represent themselves.
+
+Goal:
+Be the first to collect 7 Story Stones by winning mini-challenges in storytelling, memory, or rhythm.
+
+Gameplay Overview:
+On a player’s turn, they choose one of three actions:
+
+Riddle the Village: The player asks a riddle (from memory or made up). The first player to solve it correctly earns a Story Stone.
+
+Echo the Drum: The player taps a rhythm (using drum, sticks, or claps). The others must repeat it exactly. The first to do it flawlessly wins a Story Stone.
+
+Weave a Tale: The player must improvise a 3-part tale (with a hero, challenge, and lesson). Others vote (by raising fingers secretly) on how good it was (1–5). If the player gets at least 3 points total, they earn a Story Stone.
+
+After their action, they pass the Griot Staff clockwise.
+
+Village Stones:
+Once all stones in a village are taken, it becomes “silent” and no challenges may be issued from it. This encourages players to use different challenge types.
+
+Winning:
+The first player to gather 7 Story Stones is crowned the Master Griot, keeper of the greatest wisdom.",2025,9.7924222946167,7.5,exp_decay
+L2,GPT,"Players are young explorers from different African regions embarking on a journey to collect Wisdom Tokens by solving riddles, facing natural challenges, and trading with tribes across the African savanna. The first to collect 5 Wisdom Tokens and return to their home village wins.
+
+Components:
+Game Board (map of a stylized African landscape with regions: Desert, Jungle, Mountains, Savanna, Coast)
+
+5 Player Pawns (representing different explorers)
+
+50 Wisdom Tokens
+
+30 Challenge Cards
+
+30 Riddle Cards
+
+20 Trade Cards
+
+1 Die (six-sided)
+
+Item Tokens (Water, Food, Tool, Charm)
+
+Setup:
+Place the board on a flat surface.
+
+Each player picks a pawn and places it in a different “Home Village” on the map.
+
+Shuffle and place Challenge, Riddle, and Trade cards on their decks.
+
+Distribute 3 random Item Tokens to each player.
+
+Gameplay:
+Players take turns in clockwise order. On your turn:
+
+Roll the die to move (1–6 spaces in any direction).
+
+Land on a location (marked on the board):
+
+Natural Challenge Spot: Draw a Challenge Card. You may need specific items (e.g., avoid a lion with a Charm) to succeed and earn a Wisdom Token.
+
+Riddle Spot: Solve a cultural or nature-themed riddle. Get it right and earn a Wisdom Token.
+
+Trade Post: Draw a Trade Card and offer item(s) to exchange with another player or the post.
+
+Optional: Trade items with nearby players if on the same spot.
+
+Special Rules:
+Players can only carry 5 items at a time.
+
+If you fail a challenge, you lose 1 item.
+
+Riddles can be attempted only once per turn.
+
+Returning to your Home Village after collecting 5 Wisdom Tokens wins you the game.",2025,9.819491386413574,5.5,exp_decay
+L3,GPT,"Equipment Needed:
+10 flat stones or tiles (to form a path)
+
+5 small tokens per player (could be pebbles, seeds, carved wood—representing “lanterns”)
+
+1 marker or unique object (to represent the shrine)
+
+A cloth bag or bowl to draw stones (optional, can be randomized manually)
+
+A playing surface like the ground, table, or mat
+
+Setup:
+Lay out the 10 stones in a winding or straight path (1x10).
+
+Place the shrine marker at the end of the path.
+
+Each player chooses a color or type of token (5 lanterns each).
+
+Determine turn order by lot or age.
+
+Objective:
+Be the first to safely guide 3 of your lanterns to the shrine by lighting a path across the stones.
+
+Gameplay:
+On your turn, you may choose one of two actions:
+
+Place a Lantern:
+Place one of your lanterns on any unlit (empty) stone that is adjacent to a previously lit stone (yours or another's). The first lantern may be placed anywhere on the first stone in the path.
+
+Move a Lantern:
+Move one of your lanterns forward 1 or 2 spaces, but only if all stones in the path are lit (occupied by any lantern) and you are not moving through another lantern.
+
+Special Rules:
+Only one lantern per player can occupy a single stone.
+
+You may not place a lantern more than 2 stones ahead of your furthest lantern.
+
+If a player’s lantern reaches the shrine (final stone), remove it and place it beside them.
+
+Once a lantern is placed, it cannot go backward.
+
+Winning the Game:
+The first player to guide 3 lanterns to the shrine wins. If the stones fill up and no one reaches 3, the player with the most lanterns at or nearest the shrine wins.",2025,9.813398361206055,7.5,exp_decay
+L4,GPT,"Setup:
+Draw a 5x5 grid (25 squares).
+
+The center square is the “Sacred Stone.”
+
+Each player chooses to be either Fox or Crane (if 2–3 players: 1v1 or 2v1, if 4–5: form teams).
+
+Give each player 4 pebbles/tokens (each one represents an animal spirit).
+
+Gameplay Overview:
+Objective:
+Be the first to either:
+
+Control the Sacred Stone with two of your own tokens for 1 full round, or
+
+Capture all opposing tokens (or reduce to 1 remaining).
+
+Turns (played clockwise):
+Move or Meditate:
+
+Move: Move one token 1 space orthogonally (up/down/left/right).
+
+Meditate: Do not move this turn, instead choose one of:
+
+Regain Power: Return 1 captured token to the board at the edge.
+
+Whisper: Secretly swap two adjacent tokens of yours and another player (announced as a “whisper”—can include bluffing).
+
+Challenge Phase:
+
+If a token moves next to an opposing token, a challenge may be declared.
+
+Both players place a hand behind their back and reveal 1 to 3 fingers.
+
+Higher number wins. If tied, defender wins.
+
+Winner keeps their token; loser removes it from the board.
+
+Special Rule: Sacred Stone
+If a player ends their turn with two of their tokens on the Sacred Stone and its adjacent square, they gain “Control.”
+
+If they retain Control through all other players' turns, they win.",2025,9.775096893310547,7.0,exp_decay
+L5,GPT,"Set during a traditional lantern festival, players take on the role of kids playing a festive game of hide-and-seek with glowing lantern tokens. Only one token is ""lit"" each round — others are decoys. The aim is to find or hide the lit lantern without being caught.
+
+Setup:
+One player is the Hider each round.
+
+The other players are Seekers.
+
+Place the 5 tokens next to the cup.
+
+How to Play:
+1. The Hider’s Turn:
+Secretly choose one token to be the “lit lantern” and hide it under the cup.
+
+Shuffle and place the remaining 4 tokens visibly in a line.
+
+The Hider challenges the Seekers: “Find the glowing lantern!”
+
+2. Seekers’ Turn:
+Starting with the player to the Hider’s left, each Seeker chooses one of the visible tokens or points to the cup.
+
+Once all have guessed, the Hider lifts the cup.
+
+3. Scoring:
+Correct guess (guessed the cup and it has the lit token): +2 points
+
+Decoy pick: 0 points
+
+If nobody finds it: Hider gets +2 points
+
+If two or more guess correctly: Each gets 1 point, Hider gets 0
+
+4. Next Round:
+Pass the Hider role clockwise.
+
+Play until each player has hidden once (or twice, for longer games).",2025,9.796432495117188,6.5,exp_decay
+L6,GPT,"Materials Needed (all easily available in ancient India):
+5 small pebbles or seeds per player (used as player tokens)
+
+A board or drawn grid on ground (5x5 or 7x7 grid drawn with a stick or chalk)
+
+1 six-faced cowrie shell or a dice substitute (e.g. a tamarind seed with one side marked)
+
+Small symbols or drawings on some squares to represent events (snake = setback, lotus = blessing, fire = challenge, river = wait)
+
+Setup:
+Draw a square grid on the ground (e.g., 7x7 squares).
+
+Mark a start square (bottom left) and a temple square (top right).
+
+Randomly assign about 10 squares special effects:
+
+Lotus = move forward 1 extra space.
+
+Snake = go back 2 spaces.
+
+Fire = skip a turn.
+
+River = share space with another player to cross (forces cooperation).
+
+How to Play:
+Players take turns rolling the cowrie (or seed).
+
+Cowrie face up = move 2 spaces.
+
+Cowrie face down = move 1 space.
+
+Landing on a special square triggers the effect.
+
+Only one token per player can be on a square (except rivers).
+
+Multiple pebbles per player: You can split your 5 pebbles and race multiple tokens, increasing strategy.
+
+First player to get any 3 of their 5 tokens to the temple wins.
+
+Strategic Elements:
+Decide whether to push one token quickly or spread risk across many.
+
+Navigate around dangerous squares or take the risk for faster paths.
+
+Form temporary alliances at river squares.",2025,9.761321067810059,3.5,exp_decay
+L7,GPT,"Be the first player to escort your Rajah across the board to the opposite corner of your starting position while avoiding capture and outmaneuvering rivals.
+Setup:
+Draw a square grid (5x5 for shorter games, 7x7 for longer ones).
+
+Each player places their 4 guard tokens on one edge of the board (each edge assigned to one player).
+
+The Rajah token starts in the center of a player’s side (rotates each round if playing multiple games).
+
+Gameplay:
+Players take turns clockwise. On your turn, you may either:
+
+Move a Guard: One square in any direction (no diagonal).
+
+Move the Rajah: Only if a guard is adjacent. The Rajah may move to an adjacent square only if guarded (must be next to one of your guards before and after the move).
+
+Challenge: If your guard lands on a square occupied by another guard, that piece is removed (captured). The Rajah can never capture or be captured, only blocked.
+
+Rules:
+No two tokens may occupy the same square.
+
+A Rajah can only be moved if protected (adjacent to a friendly guard).
+
+If your Rajah is trapped (no legal moves), you're eliminated.
+
+Guards may be captured, but the Rajah cannot.
+
+Winning:
+First player to get their Rajah to the opposite corner from where they started wins.
+
+Alternatively, be the last player with a mobile Rajah.",2025,9.755064010620117,6.0,exp_decay
+L8,GPT,"Villagers must trap the Tiger by surrounding it. The Tiger wins by escaping capture for 10 turns or by capturing all villagers.
+ Setup:
+Draw a simple board with 9 spaces (a square with lines connecting the middles and diagonals works well).
+
+The Tiger starts in the center.
+
+Each player takes 3 Villagers of the same kind (3 similar seeds or stones).
+
+Villagers begin off the board. They’re placed during the players’ first turns.
+
+How to Play:
+Players take turns clockwise.
+
+On your turn, do one of the following:
+
+Place a Villager on any empty circle (until all your 3 are placed).
+
+Move a Villager: Once placed, move to an adjacent circle along a line.
+
+The Tiger moves every other turn, and may:
+
+Move to an adjacent empty circle, OR
+
+Capture a Villager by jumping over it to an empty spot (like in checkers).
+
+Tiger’s Goal:
+Avoid being surrounded by Villagers.
+
+Try to capture Villagers by jumping them.
+
+If the Tiger survives 10 turns or captures 6 villagers total (if more than 2 players), it wins.
+
+Villagers’ Goal:
+Coordinate to surround the Tiger so it can’t move.
+
+No single player can win — it’s a cooperative win for all villagers unless playing competitively, in which case the last Villager to move before trapping the Tiger is the ""chief hunter.""
+
+Optional Variations:
+Hidden Roles: One player is secretly helping the Tiger and tries to sabotage the villagers.
+
+Board Expansion: Use a larger triangle or star-shaped grid to allow more movement.",2025,9.763333320617676,6.5,exp_decay
+L9,GPT,"Accumulate the most spirit tokens (points) by claiming territories and completing sacred patterns before the end of the game.
+
+Materials Needed:
+20 small stones (4 sets of 5 stones, each set a different color or marked distinctly)
+
+A stick or cord to draw a 5x5 grid in dirt or sand
+
+15 “spirit tokens” (small shells, carved seeds, or extra stones)
+
+Optional: colored dyes, charcoal, or clay for marking pieces
+
+Setup:
+Draw a 5x5 grid (like a tic-tac-toe board but larger).
+
+Each player selects a set of 5 stones (representing their spirit).
+
+Place all spirit tokens in a pile nearby.
+
+Gameplay Overview:
+The game is played in rounds, with each player taking a turn per round. A game has 6 rounds total.
+
+On Your Turn:
+You may place or move one of your stones.
+
+1. Place a Stone (if you have unplaced stones):
+Put it on any empty square in the grid.
+
+2. Move a Stone (if all your stones are placed):
+Move one of your stones orthogonally (not diagonally) to an adjacent empty square.
+
+Claiming Patterns:
+Whenever you form a line of 3 of your own stones (horizontally, vertically, or diagonally), you gain 1 spirit token.
+
+If you form a corner triangle (three stones forming a right angle at a grid corner), you get 2 spirit tokens.
+
+Sacred Circle Bonus:
+If four different players each control one stone in a 2x2 square, each of them gets 1 bonus token. This encourages temporary cooperation.",2025,9.79220199584961,6.0,exp_decay
+L10,GPT,"Equipment:
+
+15 small stones (preferably flat)
+
+1 circle drawn in the dirt or sand (~3 ft diameter)
+
+A stick or bone (to use as a pointer or token)
+
+Theme:
+Players are spiritual warriors from rival tribes, seeking favor from the spirits by gaining control over sacred stones.
+
+Setup:
+Draw a large circle on the ground.
+
+Place all 15 stones in the center of the circle.
+
+Each player chooses a symbol (can be carved or drawn on the ground) and draws it in front of their sitting position outside the circle.
+
+Determine turn order by tossing a stone—closest to the center wins first turn.
+
+Gameplay (Turns Proceed Clockwise):
+On your turn, take the pointer stick and flick or slide one stone toward your symbol using only one motion.
+
+If the stone lands touching your symbol, you claim it and place it in your pile.
+
+If it lands outside the circle, it is returned to the center at the end of the round.
+
+You may only try to flick one stone per turn.
+
+If a stone hits another and pushes it out or toward a different player’s symbol, that outcome stands.
+
+Winning:
+The first player to collect 5 stones wins.
+
+If all stones are claimed but no one has 5, the player with the most wins.
+
+Ties result in a sudden-death “spirit challenge”: each tied player flicks one stone from 3 feet away toward the circle—closest to center wins.",2025,9.730920791625977,6.5,exp_decay
+L11,GPT,"Equipment Needed:
+
+20 small natural markers (pebbles, seeds, shells, etc.)
+
+A stick (to draw on the ground)
+
+A flat patch of dirt or sand
+
+Theme:
+Players are spirit guides helping their people navigate a dangerous path through the spirit world. They must lay trails while avoiding ""shadow traps"" set by their rivals.
+
+Setup:
+Draw a grid in the dirt — 5 spaces wide by 5 spaces long (a 5×5 square).
+
+Place all 20 markers in a pile to the side.
+
+Each player chooses a unique symbol and draws it at the starting row of the grid (bottom edge).
+
+Determine player order randomly.
+
+Objective:
+Be the first to reach the far side of the grid (row 5) with three of your markers while avoiding traps.
+
+Gameplay:
+Each player starts with 4 markers (trail stones) of their own. Turns proceed clockwise.
+
+On your turn, choose one of three actions:
+
+Place a Trail Stone – Place one of your 4 markers in any empty square adjacent (horizontally or vertically) to another of your markers or your starting symbol.
+
+Move Forward – Move one of your existing markers one space forward (toward row 5), if the space is empty.
+
+Place a Shadow Trap – Secretly pick a square and mark it with an invisible trap by pressing your finger into the dirt. Then announce “a shadow walks there.” (Only one trap allowed per player at a time.)
+
+If another player moves into a trapped square, they lose that marker, and it is removed from the game. The trap is then revealed and erased.
+
+Rules:
+You can have up to 3 markers on the grid at a time.
+
+You can’t move diagonally.
+
+You can’t enter another player’s starting row.
+
+If all your markers are eliminated, you're out of the game.
+
+Winning:
+The first player to get three of their markers to the far row (row 5) wins and is named the Guide of Shadows.",2025,9.809173583984375,8.0,exp_decay
+L12,GPT,"Equipment:
+
+25 small tokens (pebbles, carved wood, or bone chips)
+
+A stick for drawing
+
+A flat patch of dirt, sand, or stone
+
+Theme:
+Each player leads a clan trying to gain dominance in a sacred council ring by claiming influence over its regions before winter.
+
+Setup:
+Draw a circle divided into 5 segments (like a pie), each representing a region.
+
+Place 5 tokens in each region (total of 25 tokens).
+
+Each player selects a clan symbol and draws it near one edge of the circle.
+
+Determine turn order by a toss of a small stone—closest to the center goes first.
+
+Objective:
+Be the first to control 2 full regions by collecting all 5 tokens from each.
+
+Gameplay:
+Each turn, a player may perform one of the following actions:
+
+Claim a Token: Take 1 token from any region and place it near your clan symbol.
+
+Challenge Another Player: Choose a player and call a ""clash"" over a region where both have at least 2 tokens. Resolve the clash by a quick mini-game:
+
+Both secretly pick a number from 1 to 3 (held behind the back or marked in dirt).
+
+Higher number wins and steals one token from the loser.
+
+If it's a tie, nothing happens.
+
+Clashes can happen only once per region per round.
+
+Trade with Spirits (Optional): Skip your turn to return one of your tokens to a region in exchange for protection (your tokens can't be stolen for one round).
+
+Rules:
+You can never have more than 10 tokens total.
+
+Once a player controls all 5 tokens from two different regions, the game ends immediately—they are declared the High Clan.
+
+If all tokens are claimed and no one controls two full regions, the one with the most complete regions wins.",2025,9.79456901550293,6.0,exp_decay
+L13,GPT,"Equipment Needed:
+
+1 small object to represent the crown (a carved stone, button, nut, or coin)
+
+5 markers (stones, bones, or wood chips) per player, in unique styles or colors (total: 10–25 tokens)
+
+A stick or knife to draw on dirt, wood, or sand
+
+A playing area marked with a circle divided into 6 equal zones (like a wheel or pie)
+
+Theme:
+You are rival nobles vying for control of the throne during a time of chaos. Influence, deception, and ambition drive your claim to the crown. Only one will rule.
+
+Setup:
+Draw a circle about 2 feet wide, divide it into 6 equal wedges (like pie slices).
+
+Place the crown token in the center of the circle.
+
+Each player takes 5 matching tokens (in color, shape, or carving).
+
+Players sit evenly around the circle, facing one of the zones (this is their “stronghold”).
+
+Determine first player by oldest age or a toss of the crown stone.
+
+Objective:
+Be the first to control the crown zone and two adjacent zones, or eliminate all other players’ tokens from the circle.
+
+Game Turns (clockwise):
+Each turn, a player chooses 1 action:
+
+Advance a Token – Move one of your tokens one zone closer toward the center (like stepping inward through concentric rings).
+
+Challenge – If one of your tokens shares a zone with an opponent’s, you may challenge them:
+
+Each player hides 1–3 pebbles in hand and reveals simultaneously.
+
+Higher number wins the challenge; the loser removes that token from the board.
+
+If tied, both tokens remain.
+
+Fortify – Skip moving and instead add a token to your starting stronghold zone, if you have fewer than 5 on the board.
+
+Rules:
+Only one token per player may occupy the central crown zone.
+
+You must challenge to displace someone in a contested zone.
+
+A player with no tokens left is eliminated.
+
+Zones can have multiple players, but only one token per player per zone.
+
+Winning:
+A player wins if they:
+
+Control the center crown zone and any two adjacent zones (at least one token of yours in each, with no enemies present), or
+
+All other players are eliminated.",2025,9.789691925048828,9.0,exp_decay
+L14,GPT,"Setup
+Arrange 4 cones in a square about 10 meters apart; this is the “Arena.”
+
+Place the 5th cone in the center — this is the “Clash Cone.”
+
+Each player starts at a corner cone (if fewer than 4 players, leave one cone empty).
+
+Place the ball on the Clash Cone.
+
+Objective
+Be the player who touches the Clash Cone with the ball 3 times (or any agreed number) without being tagged or hit by the ball.
+
+Basic Rules
+Start: On a signal, players rush toward the center to grab the ball.
+
+With the Ball:
+
+A player can run with the ball.
+
+They can throw it to hit an opponent (like dodgeball). If they hit someone, that person is “frozen” for 5 seconds and can’t move.
+
+Without the Ball:
+
+Players can try to tag the ball carrier. If they do, the ball is dropped and play continues.
+
+Scoring:
+
+To score, a player must touch the Clash Cone with the ball (in hand).
+
+After scoring, all players return to their corners, and the ball is reset on the cone.
+
+Winning:
+
+First to 3 successful cone touches wins.
+
+In team mode, team members alternate who tries to score.",2025,9.736312866210938,7.0,exp_decay
+L15,LLama,"Be the first player to collect and return three sacred animal tokens to the village, while navigating the challenges of the savannah.
+
+Game components:
+
+Game board featuring a map of the savannah with various locations, such as watering holes, forests, and rocky outcrops
+5 Player tokens (different animal figures, e.g., lion, elephant, giraffe, zebra, and hyena)
+15 Sacred animal tokens (3 each of 5 different animals: gazelle, antelope, wildebeest, ostrich, and tortoise)
+20 Challenge cards (see below)
+16 Resource cards (see below)
+5 Village cards (see below)
+1 Die (a 6-sided die with the following symbols: sun, rain, wind, lion, elephant, and snake)
+Setup:
+
+Place the game board in the center of the playing area.
+Shuffle the Challenge cards and place them face down on designated spaces on the board.
+Shuffle the Resource cards and deal 2 to each player. Players should keep their Resource cards secret.
+Each player chooses a token and places it at the starting location on the board, which is marked as the village.
+Shuffle the Village cards and place them face down on designated spaces on the board.
+Gameplay:
+
+Rounds consist of two phases: Action and Resolution.
+
+Action Phase:
+
+On each player's turn, they roll the die to determine the type of action they can take:
+Sun: Move your token up to 3 spaces on the board.
+Rain: Draw a Resource card.
+Wind: Move another player's token up to 2 spaces on the board (with the player's consent).
+Lion: Take a Challenge card and resolve its effect immediately.
+Elephant: Use a Resource card to overcome a Challenge card.
+Snake: Steal a Resource card from another player.
+The player can choose to move their token to an adjacent space on the board, or take a specific action based on the die roll.
+Resolution Phase:
+
+If a player lands on a space with a Challenge card, they draw the top card and resolve its effect:
+Challenge cards may require players to:
+Move back to the village.
+Lose a Resource card.
+Engage in a mini-game (e.g., a rock-paper-scissors-like game using hand gestures).
+Solve a simple puzzle (e.g., a basic math problem).
+Examples of Challenge cards:
+""Marauding Hyenas"": Move back to the village and lose a Resource card.
+""River Crossing"": Engage in a mini-game with another player to cross the river.
+""Sandstorm"": Move back 2 spaces on the board.
+If a player lands on a space with a Resource card, they can pick it up and add it to their hand.
+If a player lands on a space with a Village card, they can return a Sacred animal token to the village and earn a bonus Resource card.
+Sacred Animal Tokens:
+
+When a player lands on a space with a Sacred animal token, they can pick it up and add it to their collection.
+Players can only hold a maximum of 3 Sacred animal tokens. If they collect a new token, they must discard an existing one.
+Victory Conditions:
+
+The game ends when one player returns three Sacred animal tokens to the village.
+That player is declared the winner and is considered the most revered hunter in the village.
+Resource Cards:
+
+Food: allows a player to overcome a Challenge card.
+Water: heals a player and allows them to move extra spaces.
+Shelter: protects a player from a Challenge card.
+Tool: helps a player solve a puzzle on a Challenge card.
+Challenge Cards:
+
+Environmental challenges (e.g., sandstorms, wild animals).
+Social challenges (e.g., rival hunters, mischievous children).
+Physical challenges (e.g., injuries, fatigue).
+Village Cards:
+
+Special abilities (e.g., extra movement, bonus Resource cards).
+Quests (e.g., collect a specific Sacred animal token).
+Ancient African Cultural and Historical Context:
+
+The game is set in a fictional African savannah, inspired by the real-life savannas of East Africa.
+The game incorporates elements of African culture, such as the importance of community and respect for nature.
+The game also draws inspiration from ancient African myths and legends, such as the stories of Anansi the spider trickster.
+Variations for different player counts:
+
+For 2 players, use a smaller game board and reduce the number of Challenge cards.
+For 3-5 players, use the standard game board and number of Challenge cards.
+Expansions:
+
+Add new Challenge cards and Resource cards to increase the game's difficulty and variety.
+Introduce new player tokens and Sacred animal tokens to increase the game's replayability.
+Thematic Integration:
+
+The game's theme is deeply integrated into the gameplay mechanics, with players taking on the role of hunters navigating the challenges of the savannah.
+The game's components, such as the game board and Challenge cards, are designed to evoke the sights and sounds of the African savannah.
+Playtesting:
+
+The game has been playtested with a group of 5 players, with an average playtime of 45 minutes.
+Feedback from playtesters has been positive, with players praising the game's engaging gameplay and thematic integration.",2025,9.823346138000488,4.0,exp_decay
+L16,LLama,"Be the first player to collect and return three valuable resources (Gold, Ivory, and Kente cloth) to your village, while navigating the challenges of the savannah and outwitting your opponents.
+
+Equipment:
+
+A large, open playing area (e.g., a field, courtyard, or sandy area)
+5-10 small stones or pebbles (to represent resources)
+5-10 small sticks or twigs (to represent player tokens)
+1-2 small pieces of cloth or ribbon (to represent Kente cloth resources)
+A small, flat rock or shell (to serve as a "" Savannah Shaker"")
+Setup:
+
+Designate the playing area as the savannah, with a clear boundary.
+Shuffle the stones, sticks, and cloth/ribbon pieces, and scatter them throughout the playing area.
+Each player chooses a stick token and places it at the edge of the playing area, representing their village.
+Determine the starting player randomly.
+Gameplay:
+
+Rounds consist of two phases: Resource Gathering and Action.
+
+Resource Gathering Phase:
+
+The Savannah Shaker is tossed into the air, and the player who catches it gets to go first. If no one catches it, the player who tossed it goes first.
+On each player's turn, they roll the Savannah Shaker. The Shaker can land in one of three ways:
+Flat: The player can move their token up to three spaces towards a resource.
+Edge: The player can take a resource from the space they are currently in.
+Spin: The player must perform a simple challenge (e.g., hop on one foot, do a specific dance move, or answer a trivia question related to medieval African culture). If they succeed, they can move their token one space towards a resource.
+Players can only carry one resource at a time. If they encounter another player with a resource, they can choose to challenge that player to a Savannah Duel (see below).
+Action Phase:
+
+After the Resource Gathering Phase, players can choose to:
+Return to their village with a resource (by moving their token back to the starting edge).
+Trade one resource with another player (if they have one).
+Use a special ability (see below).
+Savannah Duel:
+
+When two players encounter each other with resources, they can engage in a Savannah Duel.
+Players take turns tossing the Savannah Shaker. The player with the highest number of ""Flat"" results wins the duel and takes the opponent's resource.
+If the results are tied, players can choose to Haggle (see below).
+Haggle:
+
+Players can choose to haggle instead of engaging in a duel.
+They take turns making an offer (e.g., ""I'll give you a stone for your Kente cloth"").
+If the other player accepts, they trade resources. If not, the players return to their previous positions.
+Special Abilities:
+
+Hunter: One player can be designated as the Hunter. They can move an extra space during the Resource Gathering Phase.
+Trader: One player can be designated as the Trader. They can trade resources with other players without engaging in a duel.
+Resources:
+
+Gold (stone): Worth 3 points
+Ivory (small stick): Worth 2 points
+Kente cloth (cloth/ribbon piece): Worth 1 point
+Winning Conditions:
+
+The game ends when one player returns three resources to their village.
+The player with the most points, earned by collecting and returning resources, wins the game.",2025,9.778985977172852,5.0,exp_decay
+L17,LLama,"To be the first player to collect and return three different types of natural materials (e.g., leaves, sticks, rocks) to a designated ""home"" area, while navigating through a challenging outdoor environment.
+
+Equipment:
+
+A large, open outdoor space with varied terrain (e.g., savannah, forest, or grassland)
+A designated ""home"" area (e.g., a marked circle or a small enclosure)
+A set of three different types of natural materials (e.g., leaves, sticks, rocks) that can be found in the outdoor space
+Optional: a whistle or other signaling device
+How to play:
+
+Divide players into teams of 1-3 players, depending on the total number of players.
+Designate the ""home"" area and explain the objective of the game.
+Each team starts at the ""home"" area.
+On the signal of the whistle (or a designated leader), all teams start searching for the three different types of natural materials.
+Players must navigate through the outdoor space, using their problem-solving skills and physical abilities to overcome obstacles (e.g., hills, streams, dense vegetation).
+When a player finds one of the required materials, they must bring it back to the ""home"" area and deposit it in a designated container (e.g., a basket or a hat).
+Players can only hold one material at a time. If a player is holding a material and finds another one, they must choose which one to keep and which one to leave behind.
+If a player is tagged (or touched) by another player while holding a material, they must return to the ""home"" area and start over.
+The first team to collect and return all three types of materials to the ""home"" area wins.",2025,9.79049301147461,4.0,exp_decay
+L18,LLama,"Be the first player to create a harmonious path for the Dragon, connecting the Imperial City to the sacred Mountain, while navigating the challenges of ancient East Asia.
+
+Equipment:
+
+A flat, rectangular game board made of wood or bamboo, approximately 12"" x 6"" in size (or a large piece of paper)
+5-7 small stones or pebbles (representing the Dragon's energy)
+5-7 small sticks or twigs (representing the players' actions)
+1 small, decorative token (representing the Dragon)
+A small, handheld dice made from a piece of bamboo or a shell (with numbers or symbols etched onto it)
+Setup:
+
+Draw a simple game board on the paper or wood, featuring:
+A starting point for the Imperial City (one end of the board)
+A endpoint for the sacred Mountain (the other end of the board)
+5-7 spaces or nodes in between, representing various locations (e.g., villages, rivers, forests)
+Shuffle the small sticks or twigs and deal 2-3 to each player. These sticks represent the players' actions.
+Each player chooses a starting node near the Imperial City and places one of their sticks on it.
+Gameplay:
+
+Rounds consist of two phases: Action and Resolution.
+
+Action Phase:
+
+On each player's turn, they roll the dice to determine which action they can take:
+1-2: ""Harmony"" - Move the Dragon token one space along the board
+3-4: ""Balance"" - Swap one of your sticks with a stick from another player
+5-6: ""Energy"" - Move one of your sticks to an adjacent node
+The player can choose to use one of their sticks to perform an action:
+Place a stick on a node to ""claim"" it
+Use a stick to ""clear"" a node already claimed by another player (by swapping one of your sticks with theirs)
+Resolution Phase:
+
+Resolve any conflicts or challenges that arose during the Action Phase:
+If two or more players have sticks on the same node, they engage in a ""duel"" - both players roll the dice, and the player with the higher number wins the duel, removing the other player's stick from the node
+If a player lands on a node with a stone or pebble, they can pick it up and add it to their collection (representing the Dragon's energy)
+Move the Dragon token to the next node, following the path created by the players' sticks.
+Game End:
+
+The game ends when:
+
+One player creates a continuous path from the Imperial City to the sacred Mountain using their sticks
+A player collects three stones or pebbles (representing the Dragon's energy)
+The board is completely filled with sticks, and no more actions can be taken
+The player who created the harmonious path or collected the most stones wins the game.",2025,9.743549346923828,7.0,exp_decay
+L19,LLama,"Become the most influential advisor to the Emperor by navigating the intricate web of court politics, managing resources, and making strategic decisions.
+
+Equipment:
+
+A large, foldable game board featuring a map of medieval East Asia (e.g., China, Japan, Korea) with key locations marked (e.g., Imperial Palace, temples, trade routes)
+5-10 Player tokens and matching character cards (e.g., Samurai, Scholar, Merchant, Monk)
+100-150 Influence tokens (small stones, coins, or beads)
+20-25 Event cards (e.g., Imperial Decree, Natural Disaster, Economic Boom)
+5-10 Resource tokens (e.g., rice, silk, tea)
+1 six-sided die (d6)
+Setup:
+
+Each player chooses a character card and places their token on the starting location on the board (e.g., a designated area near the Imperial Palace).
+Shuffle the Event deck and deal 2-3 cards to each player.
+Each player receives a set amount of Influence tokens (e.g., 5-10).
+Determine the starting player randomly.
+Gameplay:
+
+Rounds consist of three phases: Action, Resolve, and Event.
+
+Action Phase:
+
+On each player's turn, they take two actions: Move and Act.
+Move: The player can move their token up to three spaces on the board to a adjacent location.
+Act: The player can perform one of the following actions:
+Gain Resources: Collect 1-2 Resource tokens from the current location.
+Seek Audience: Move to the Imperial Palace and gain 1 Influence token.
+Network: Visit a temple or trade route and gain 1-2 Influence tokens.
+Sabotage: Move to another player's location and steal 1-2 Influence tokens from them.
+Resolve Phase:
+
+Resolve any conflicts or challenges that arose during the Action phase.
+If a player lands on a location occupied by another player, they engage in a brief negotiation. If they cannot come to an agreement, they roll a d6 to determine the outcome:
+1-2: The player is sent away with no effect.
+3-4: The players exchange 1 Influence token.
+5-6: The player gains 1 Influence token from the other player.
+Event Phase:
+
+Draw an Event card and resolve its effects. Events can be:
+Imperial Decrees: Grant or revoke Influence tokens.
+Natural Disasters: Move players to a new location or lose Resources.
+Economic Booms: Gain Resources or Influence tokens.
+Game End:
+
+The game ends after a set number of rounds (e.g., 10-15). The player with the most Influence tokens is declared the winner and becomes the most influential advisor to the Emperor.
+
+Character Abilities:
+
+Samurai: +1 Influence token when resolving conflicts.
+Scholar: +1 Resource token when collecting Resources.
+Merchant: +1 Influence token when trading Resources.
+Monk: Immune to Sabotage actions.
+Strategies:
+
+Focus on building Influence tokens through Networking and Seeking Audience.
+Collect Resources to trade for Influence tokens or use for future actions.
+Use Sabotage to disrupt opponents' plans.
+Manage Events to your advantage by adapting to changing circumstances.",2025,10.0,5.0,exp_decay
+L20,LLama,"Be the first player to collect and return three Cherry Blossom tokens to your home base, while navigating through a winding course and using strategy to outmaneuver your opponents.
+
+Equipment:
+
+A large, open space (e.g., park, field, or schoolyard) with some obstacles (e.g., cones, small hurdles, or trees)
+5 small tokens or flags (one for each player) to mark their home base
+15 Cherry Blossom tokens (small pieces of paper or beanbags with a cherry blossom design)
+1 small bell or whistle
+How to play:
+
+Setup: Designate a large, winding course through the playing area. Divide the players into teams of 1-5 players. Each player chooses a home base token and places it at a designated starting point.
+Gameplay: On the signal of the bell or whistle, all players start running through the course, trying to collect Cherry Blossom tokens. The course should have some twists and turns, with obstacles to navigate around.
+Token collection: When a player lands on a Cherry Blossom token, they can pick it up and add it to their collection. However, if another player lands on the same token, they can steal it from the previous player.
+Strategic elements:
+Sakura Block: Players can use a special ""block"" move to protect one of their collected Cherry Blossom tokens from being stolen. To do this, they must perform a specific action (e.g., jumping jacks, a quick dance move, or a specific phrase) before another player can steal the token.
+Wind Gust: Players can use a ""wind gust"" move to move an opponent's token back to its original location. To do this, they must tag the opponent while saying a specific phrase (e.g., """" - "" Sakura no kaze"" - ""Cherry Blossom Wind"").
+Returning to home base: Players must return to their home base to deposit their collected Cherry Blossom tokens. If a player is tagged while carrying a token, they must return to the start of the course.
+Winning the game: The first player to collect and return three Cherry Blossom tokens to their home base wins the game.",2025,9.819411277770996,7.0,exp_decay
+L21,LLama,"Be the first player to collect and return three sacred items to the Rajpura (Royal City) while navigating through the kingdom, managing resources, and outsmarting opponents.
+
+Equipment:
+
+A flat, rectangular playing surface (e.g., a wooden board or a drawn grid on the ground)
+5-7 small stones or tokens (representing the players' game pieces)
+15-20 small sticks or pebbles (used as obstacles and resources)
+3 small, distinct objects (representing the sacred items, e.g., small shells, beads, or seeds)
+A small dice or a cowry shell (used for determining movement)
+Setup:
+
+Draw a simple grid on the playing surface with 5-7 rows and 5-7 columns. The grid represents the kingdom, with the Rajpura at one end.
+Place the 3 sacred items at random locations on the grid, at least 3-4 grid spaces away from the Rajpura.
+Each player chooses a game piece and places it at the starting point, near the Rajpura.
+Shuffle the sticks or pebbles and place them randomly on the grid, leaving some spaces empty.
+Gameplay:
+
+Rounds consist of two phases: Movement and Action.
+
+Phase 1: Movement
+
+Players take turns rolling the dice or flipping the cowry shell to determine how many spaces they can move their game piece.
+The player can move their game piece horizontally or vertically, but not diagonally.
+If a player lands on a space with a stick or pebble, they must pick it up and add it to their collection.
+Phase 2: Action
+
+The player can choose to:
+Move towards a sacred item (if they are within range).
+Use a stick or pebble to overcome an obstacle (e.g., move an opponent's game piece back to the start).
+Collect a resource (stick or pebble) from the grid.
+Return to the Rajpura with a sacred item (if they have one).
+If a player lands on a space with another player's game piece, they can engage in a ""Dash"" (a mini-game):
+Both players roll the dice or flip the cowry shell.
+The player with the higher result can move the opponent's game piece back to the start.
+If the results are tied, both players move back to the start.
+Sacred Items:
+
+When a player lands on a space with a sacred item, they can pick it up and add it to their collection.
+Players can only carry one sacred item at a time.
+Winning the game:
+
+The first player to collect three sacred items and return to the Rajpura wins the game.
+If all players but one have been blocked or eliminated, the last player standing wins.
+Variations:
+
+For a more challenging game, add more sticks or pebbles to the grid.
+For a cooperative game, have players work together to collect the sacred items and return to the Rajpura.",2025,9.74905014038086,4.5,exp_decay
+L22,LLama,"To be the first player to collect and return three ancient artifacts to the Maharaja's palace while navigating through a challenging terrain and rival players.
+
+Equipment:
+
+A large, open playing area (e.g., a field, courtyard, or large room)
+5-7 small objects to serve as artifacts (e.g., small stones, coins, or beads)
+5-7 player tokens (e.g., small sticks, stones, or cloth pieces)
+1 six-sided die (or a small stone with different markings on each side)
+Optional: simple obstacles (e.g., small hurdles, cones, or a ""river"" made from a rope)
+Setup:
+
+Designate the playing area as the ""Kingdom of Rajput"" and mark the Maharaja's palace at one end.
+Scatter the artifacts throughout the playing area, making sure they are not too easily accessible.
+Each player chooses a token and places it at the starting line, near the palace.
+Determine the starting player randomly.
+Gameplay:
+
+Rounds consist of three phases: Movement, Action, and Resolution.
+
+Movement Phase: The starting player rolls the die to determine how many steps they can take. The player can move their token up to the number of steps shown on the die.
+Action Phase: The player can choose one of the following actions:
+Explore: Move an extra step to search for an artifact.
+Retrieve: Pick up an artifact if they are on the same space as it.
+Sabotage: Try to move another player's token back to the starting line (see Resolution Phase).
+Return: Move back to the palace with an artifact in hand.
+Resolution Phase: Resolve the player's action:
+If the player chose to Explore, they move an extra step but do not get to take another action.
+If the player chose to Retrieve, they pick up the artifact and add it to their inventory.
+If the player chose to Sabotage, they roll the die and add 1. If the result equals or exceeds the target player's current position, the target player is sent back to the starting line. If not, the sabotage attempt fails.
+If the player chose to Return, they move back to the palace with the artifact. If they successfully return an artifact, they score a point.
+Game End:
+
+The game ends when one player collects and returns three artifacts to the palace. That player is declared the winner and becomes the most trusted advisor to the Maharaja. In case of a tie, the player with the most artifacts in their inventory wins.",2025,9.755746841430664,6.0,exp_decay
+L23,LLama,"Equipment:
+
+A small ball (e.g., a tennis ball, rubber ball, or a rolled-up sock)
+A few cones or markers to create a simple obstacle course
+A stopwatch or a mobile phone with a timer app
+Optional: a small prize or token for the winner
+Objective:
+Be the first player to complete the obstacle course, collect a token, and return to the starting point while navigating through the ""traffic"" of other players trying to tag you out.
+
+How to play:
+
+Setup: Create a simple obstacle course using cones or markers. The course should have 5-7 checkpoints. Designate a starting point and a finish point.
+Gameplay: Players line up at the starting point. On the count of ""go,"" players start running through the obstacle course.
+Twist: One player is designated as the ""Dilli Dasher"" and starts at a designated ""traffic"" area near the obstacle course. The Dilli Dasher tries to tag other players with the ball while they are navigating the course.
+Token collection: At each checkpoint, players must collect a token (e.g., a small stone, a coin, or a beanbag). The tokens are placed at each checkpoint before the game begins.
+Tagging: If a player is tagged by the Dilli Dasher while collecting a token, they must freeze in place and do a specific task (e.g., hop on one foot, do a specific dance move, or chant a phrase).
+Unfreeze: A frozen player can be unfrozen by another player who tags them while they are frozen.
+Time pressure: Set a timer for 5-10 minutes. The player who completes the course, collects all tokens, and returns to the starting point within the time limit wins.
+Variations for different player counts:
+
+2 players: One player is the Dilli Dasher, and the other player navigates the course. Players can switch roles after a set time or after the course is completed.
+3-4 players: Two players can be Dilli Dashers, or players can be divided into teams with one team member navigating the course while the other team members act as Dilli Dashers.
+5 players: Three players can be Dilli Dashers, or players can be divided into teams with two team members navigating the course while the other team members act as Dilli Dashers.
+Scoring:
+
+The first player to complete the course and return to the starting point wins.
+If no player completes the course within the time limit, the player with the most tokens collected wins.",2025,9.781213760375977,6.5,exp_decay
+L24,LLama,"Be the first player to collect and return three sacred stones to the Temple of the Sun, while navigating through the challenges of the desert.
+
+Equipment:
+
+A large, flat playing surface (e.g., a sandy area, a cleared circle of land, or a woven mat)
+5 small stones or pebbles (representing the sacred stones)
+1 small stick or wooden marker (for tracking progress)
+A few handfuls of small rocks or pebbles (for obstacles and challenges)
+How to play:
+
+Initial Setup: Players gather at the edge of the playing surface, which represents the desert. The Temple of the Sun is located at the center of the playing surface. Shuffle the 5 small stones and place them at random locations on the playing surface, at least a short distance away from the Temple.
+Gameplay: On each player's turn, they roll a small rock or pebble to determine how many steps they can take. The rock can land in one of three ways:
+Flat side up: The player can move 1 step towards the nearest stone.
+Flat side down: The player can move 2 steps towards the nearest stone.
+On its edge: The player must perform a challenge (see below).
+Challenges: When a player lands on its edge, they must perform a challenge. The challenges are:
+Sunbeat: The player must hop on one foot from where they are to the nearest stone.
+Dune dash: The player must run to a designated landmark (e.g., a nearby rock or a marked spot) and back to where they are.
+Raven's call: The player must make a specific sound (e.g., a bird call) and then move 1 step towards the nearest stone.
+Sandstorm: The player must pick up a handful of small rocks and throw them in the air. If they catch any, they can move 1 step towards the nearest stone.
+Collecting stones: When a player reaches a stone, they pick it up and add it to their collection.
+Returning to the Temple: Players can choose to return to the Temple with a stone at any time. To do so, they must move in a straight line to the Temple, without performing any challenges.
+Winning the game: The first player to collect three stones and return to the Temple wins the game.
+Strategies:
+
+Players must balance the need to collect stones with the risk of performing challenges.
+They must also navigate the desert, avoiding obstacles and other players who may try to steal their stones.
+Players can use their challenges to gain an advantage or hinder their opponents.",2025,9.748860359191895,6.0,exp_decay
+L25,LLama,"Be the first player to collect and return three ceremonial stones to the Temple of the Sun, while navigating the challenges of the Aztec jungle.
+
+Equipment:
+
+A large, open playing area (e.g., a field, courtyard, or beach)
+5-10 small stones or tokens (representing ceremonial stones)
+1-2 small sticks or canes (for marking player positions)
+A small, designated area for the Temple of the Sun (e.g., a marked circle or a small tent)
+How to play:
+
+Setup: Designate the Temple of the Sun and scatter the ceremonial stones throughout the playing area. Each player chooses a starting location and marks it with a stick or cane.
+Gameplay: On each player's turn, they can move through the jungle (playing area) to search for ceremonial stones. Players can move in any direction, but they must stay within a reasonable distance from their marked starting location.
+Encountering challenges: When a player lands on a space occupied by another player, they engage in a Jungle Encounter. The players roll a makeshift die (e.g., a stone flipped into the air, with the side facing up determining the outcome) to determine the encounter's outcome:
+0-1: The players must Duel (see below).
+2-3: The players Trade one of their collected stones for a random stone from the pool.
+4-5: The players Form an Alliance, allowing them to move together and share stones.
+Duel: Players engage in a simple duel, where they take turns trying to knock the opponent's stick or cane out of the ground. The first player to succeed wins the duel and can take one of their opponent's collected stones.
+Collecting stones: When a player finds a ceremonial stone, they can pick it up and add it to their collection.
+Returning to the Temple: Players can choose to return to the Temple of the Sun with one of their collected stones. If they successfully return a stone, they earn a Temple Token (e.g., a small mark on their stick or cane).
+Winning the game: The first player to collect and return three ceremonial stones to the Temple of the Sun wins the game.
+Optional rules:
+
+Jungle Hazards: Designate certain areas of the playing field as hazards (e.g., ""quicksand"" or ""venomous snakes""). Players who land on these spaces must draw a penalty (e.g., losing a turn or moving backward).
+Aztec Gods: Introduce special power-ups or challenges by designating certain stones or tokens as ""gifts from the gods."" Players who collect these tokens can gain advantages (e.g., extra movement or immunity to duels).",2025,9.784236907958984,7.0,exp_decay
+L26,LLama,"To capture and hold territories by strategically placing markers and outmaneuvering opponents, while navigating the challenges of the Americas' diverse geography and climate.
+
+Equipment:
+
+A large, blank map of the Americas (can be drawn on a piece of paper or a whiteboard)
+5-10 markers or colored pencils (different colors for each player)
+1 six-sided die (d6)
+Optional: a small token or coin to represent a ""wild card"" (see below)
+How to play:
+
+Initial setup: Each player chooses a color and receives a set of markers or colored pencils. The map of the Americas is drawn or displayed, and players agree on a starting territory (e.g., a major city or landmark).
+Gameplay: On each player's turn, they roll the d6 to determine their action:
+1-2: Explore - The player can draw a new territory on the map, connecting it to an existing territory they control.
+3-4: Claim - The player can claim a new territory adjacent to one they already control, marking it with their color.
+5-6: Challenge - The player can challenge an opponent who controls a territory adjacent to one of their own. The challenged player rolls the d6, and if the result is lower than the challenger's roll, they lose control of the territory.
+Territorial control: A player controls a territory when they have marked it with their color. They can use their markers to create ""borders"" around their territories.
+Wild card: If a player rolls a 6 and has the wild card token, they can use it to ""diplomatically"" swap one of their territories with a territory controlled by an opponent.
+Climate and geography challenges: Certain regions on the map may have unique challenges or obstacles, such as:
+Deserts: Players who claim a territory in a desert region must roll a 6 on their next turn to maintain control. If they fail, they lose control of the territory.
+Mountains: Players who claim a territory in a mountainous region must roll a 5 or 6 on their next turn to maintain control. If they fail, they lose control of the territory.
+Rivers: Players who claim a territory adjacent to a river can use it to their advantage by moving one of their markers to an adjacent territory without rolling the die.
+Tropical storms: Players who claim a territory in a region prone to tropical storms must roll a 1 on their next turn or lose control of the territory.
+Game end: The game ends when one player controls a predetermined number of territories (e.g., 5-7). That player is declared the winner.",2025,10.0,6.0,exp_decay
+L27,LLama,"Be the first player to move all of your tribe's tokens (small stones or pebbles) from the ""Village"" to the ""River"" and back, while navigating the challenges of the ancient European wilderness.
+
+Equipment:
+
+A flat, open space (e.g., a clearing, a courtyard, or a sandy area)
+5-10 small stones or pebbles per player (different colors or shapes to distinguish between players)
+A small stick or branch (about 1-2 feet long)
+A designated ""River"" area (e.g., a small stream, a designated zone, or a marked area)
+A designated ""Village"" area (e.g., a marked area or a designated zone)
+How to play:
+
+Setup: Players choose a color or shape of stone to represent their tribe. Each player places 5-10 stones at the ""Village"" area. The ""River"" area is designated, and the stick is placed at the edge of the playing area, perpendicular to the ""River"".
+Gameplay: On each player's turn, they roll the stick to determine how many steps they can take. The stick is tossed, and the number of steps is determined by how many times the stick lands on its side before coming to rest. For example:
+If the stick lands on its side once, the player can take 1 step.
+If the stick lands on its side twice, the player can take 2 steps.
+If the stick lands on its side and then rolls over, the player can take 3 steps.
+Movement: The player can move one of their tribe's stones from the ""Village"" towards the ""River"" or from the ""River"" back to the ""Village"". The player can move their stone the number of steps determined by the stick roll. The player can only move one stone per turn.
+Challenges: If a player lands on a space occupied by another player's stone, they can choose to ""challenge"" that player to a simple task, such as:
+A rock-paper-scissors-like game using hand gestures (e.g., ""rock"" beats ""scissors"", ""scissors"" beats ""paper"", ""paper"" beats ""rock"")
+A short sprint or agility test (e.g., running a short distance, jumping over a small obstacle)
+A trivia question about local mythology or folklore
+The winner of the challenge can send the challenged player's stone back to the ""Village"", while the loser must leave their stone in place.
+River Crossing: When a player reaches the ""River"" area, they must perform a simple task (e.g., tossing a small stone into the water, making a quick prayer to a local deity) to ""cross"" the river. If they succeed, they can move their stone back towards the ""Village"".
+Winning: The first player to move all of their tribe's stones from the ""Village"" to the ""River"" and back wins the game.",2025,9.753822326660156,7.0,exp_decay
+L28,LLama,"Be the first player to collect and return 5 valuable resources to your lord's castle, while navigating the challenges of medieval Europe.
+
+Equipment:
+
+A large, open playing area (e.g., a field, courtyard, or village square)
+5 small tokens or flags (representing the resources: food, wood, iron, gold, and stone)
+1 small token or flag for each player's lord's castle
+A simple dice (e.g., a six-sided die)
+Optional: simple obstacles (e.g., cones, small hurdles)
+Setup:
+
+Designate the playing area and mark the boundaries.
+Place the resource tokens randomly within the playing area.
+Each player chooses a lord's castle location and places their token.
+Determine the starting player randomly.
+Gameplay:
+
+Rounds consist of two phases: Action and Resolution.
+
+Action Phase:
+
+On each player's turn, they roll the dice to determine their action:
+1-2: Travel - Move up to 3 steps towards a resource token or their lord's castle.
+3-4: Forage - Search for a resource token within 1 step. If found, pick it up and bring it back to your lord's castle.
+5-6: Sabotage - Choose another player and force them to move back to their starting position.
+Players can also choose to Rest (no action), which allows them to recover from a previous sabotage.
+Resolution Phase:
+
+If a player lands on a resource token, they pick it up and add it to their inventory.
+If a player lands on another player's lord's castle, they can Trade one of their resources for one of the other player's resources (if they have one).
+Players can only hold a maximum of 5 resources. If they acquire a new resource, they must discard an existing one.
+Winning Conditions:
+
+The first player to collect and return 5 resources to their lord's castle wins the game.
+If all resources are collected and no player has 5 resources at their lord's castle, the game ends, and the player with the most resources at their castle wins.",2025,10.0,6.0,exp_decay
+L29,LLama,"Be the first player to collect and return three ancient artifacts to the village, while navigating through a winding river and using strategic gameplay to outmaneuver opponents.
+
+Equipment:
+
+A rectangular playing area (e.g., a large piece of paper, a blanket, or a designated area on a grassy field)
+5-6 small objects to serve as ""artifacts"" (e.g., small stones, coins, or beanbags)
+5-6 player tokens (e.g., small sticks, stones, or pieces of cloth)
+1 six-sided die (or a small stone that can be tossed and caught)
+Optional: a small ""river"" obstacle (e.g., a small hurdle, a cone, or a drawn line)
+Setup:
+
+Designate the playing area as a winding river, with a ""village"" at one end and a ""ruin"" at the other.
+Place the artifacts along the river, spaced out and partially hidden (e.g., under small stones or leaves).
+Each player chooses a token and places it at the village.
+Gameplay:
+
+Rounds consist of two phases: Exploration and Action.
+
+Exploration Phase:
+
+On each player's turn, they roll the die to determine how many steps they can take along the river. The number on the die indicates the number of steps.
+The player can move their token along the river, trying to reach an artifact. If they land on a space with an artifact, they can pick it up.
+Action Phase:
+
+After exploring, the player can choose one of the following actions:
+Cross the River: The player can try to cross the river (by jumping over a small obstacle or moving to the other side of a drawn line). If they succeed, they can move an extra step on their next turn. If they fail, they must stay in place.
+Sabotage: The player can try to sabotage an opponent by moving their token back to the village. The sabotaged player must then start over.
+Return to Village: The player can choose to return to the village with an artifact they collected. If they do, they earn a point.
+Game End:
+
+The game ends when one player collects and returns three artifacts to the village.
+That player is declared the winner.",2025,9.781404495239258,6.0,exp_decay
+L30,Mistral," To be the first player to collect a certain number of animal hides and return to the starting point.
+
+Materials:
+
+A game board representing the African savannah
+Animal hide tokens (e.g. lion, elephant, giraffe, zebra, etc.)
+Dice
+Player markers
+Setup:
+
+Each player chooses a player marker and places it on the starting point of the game board.
+Shuffle the animal hide tokens and place them face down in a pile.
+Each player rolls the dice to determine their starting order.
+Gameplay:
+
+On each turn, the player rolls the dice and moves their player marker the number of spaces indicated.
+If a player lands on a space with an animal hide token, they may pick it up and add it to their collection.
+If a player lands on a space with a trap or obstacle, they must roll the dice again and move their player marker the number of spaces indicated.
+If a player lands on a space with a watering hole or other resource, they may draw a card from a deck of resource cards to gain an advantage or disadvantage.
+The first player to collect a certain number of animal hides (determined by the players before the game begins) wins the game by returning to the starting point with all of their animal hides.
+This game is designed to simulate the challenges and opportunities of hunting in the African savannah, while also incorporating elements of strategy and chance. It can be played by 2-5 players and is suitable for all ages.",2025,9.802042007446289,2.0,exp_decay
+L31,Mistral,"Equipment needed:
+
+A ball or a small object to serve as the ""prey""
+A stick or a long stick-like object to serve as the ""hunter""
+Objective:
+
+The objective of the game is for the hunter to catch the prey while the prey tries to avoid being caught.
+
+Setup:
+
+Choose one player to be the hunter and the rest to be the prey.
+The hunter stands at one end of the playing area while the prey stands at the other end.
+The hunter throws the ball or object towards the prey, trying to hit it.
+The prey tries to dodge the ball or object while running towards the other end of the playing area.
+Gameplay:
+
+The hunter continues to throw the ball or object towards the prey while the prey tries to dodge it.
+If the ball or object hits the prey, the hunter wins the round and the prey becomes the hunter for the next round.
+If the prey successfully dodges the ball or object, it becomes the hunter for the next round.
+The game continues until a predetermined number of rounds or until a player reaches a certain number of wins.
+Variations:
+
+Players can take turns being the hunter and the prey.
+Players can use their bodies to dodge the ball or object instead of using a stick.
+Players can use their hands to catch the ball or object instead of using a stick.",2025,9.799102783203125,4.5,exp_decay
+L32,Mistral,"The objective of the game is to create a rhythmic drum circle that everyone can participate in.
+
+Setup:
+
+Choose a large, flat space to play in.
+Each player should find a drum or other percussion instrument to play.
+Players should stand in a circle around the space, facing each other.
+Gameplay:
+
+The first player starts the game by playing a beat on their drum.
+The next player should listen to the first player's beat and then play their own beat, either by adding to or complementing the first player's beat.
+Each subsequent player should do the same, listening to the previous player's beat and then playing their own beat.
+The goal is to create a continuous, rhythmic drum circle that everyone can participate in.
+Players should be encouraged to experiment with different rhythms and beats, but should always listen to the overall rhythm of the circle and try to fit in.
+Rules:
+
+Players should take turns playing their drum or percussion instrument.
+Players should listen to the overall rhythm of the circle and try to fit in with the other players.
+Players should not interrupt or disrupt the rhythm of the circle.
+Players should be respectful of each other and try to create a positive and inclusive atmosphere.",2025,9.817756652832031,4.0,exp_decay
+L33,Mistral,"Equipment needed:
+
+A deck of cards with numbers and symbols
+A cloth or paper to represent the Silk Road
+A dice
+Objective:
+
+The objective of the game is to be the first player to reach the end of the Silk Road with the most valuable goods.
+
+Setup:
+
+Shuffle the deck of cards and place it face down on the table.
+Lay the cloth or paper on the table to represent the Silk Road.
+Divide the players into two teams and assign each team a starting point on the Silk Road.
+Each player starts with a certain number of goods (e.g. 5 coins, 3 pieces of silk, etc.)
+Gameplay:
+
+On each turn, a player rolls the dice and moves their team's piece along the Silk Road the number of spaces indicated by the dice.
+When a player lands on a space, they draw a card from the deck and follow the instructions on the card. The instructions could include:
+Gaining or losing goods
+Moving forward or backward a certain number of spaces
+Swapping goods with another player
+Drawing an additional card
+Players can also collect goods from other players by trading with them or by winning them in battles.
+The first player to reach the end of the Silk Road with the most valuable goods wins the game.",2025,9.805032730102539,5.0,exp_decay
+L34,Mistral,"Number of players: 2-5
+
+Objective: To be the first player to reach a designated number of points by successfully completing quests and trading with other players.
+
+Equipment:
+
+A deck of quest cards
+A set of player tokens
+A set of dice
+A set of trading cards
+Setup:
+
+Shuffle the quest cards and place them face down in a pile.
+Each player chooses a player token and places it on the starting space on the game board.
+Each player starts with a set of trading cards.
+Gameplay:
+
+On each turn, the active player rolls the dice and moves their player token the number of spaces indicated.
+If a player lands on a space with a quest, they draw a quest card and read it aloud. The quest may require the player to collect a certain number of resources, trade with other players, or perform a specific action.
+The player must then decide whether to attempt the quest or pass it. If they choose to attempt the quest, they must roll the dice and see if they successfully complete it. If they roll a number equal to or greater than the number of resources required, they earn the points indicated on the quest card and keep the card. If they roll a number less than the number of resources required, they fail the quest and must discard the card.
+If a player chooses to pass the quest, they may trade resources with other players or perform a specific action indicated on their trading cards.
+Once a player has earned a certain number of points (determined by the players before the game begins), they are declared the winner.",2025,10.0,4.5,exp_decay
+L35,Mistral,"Name: ""Stone, Paper, Scissors""
+
+Number of players: 2-5
+
+Equipment needed: None
+
+Objective: To be the first player to win a predetermined number of rounds.
+
+Gameplay:
+
+Each player stands facing each other in a circle.
+On the count of three, each player simultaneously forms one of three hand gestures: rock (a closed fist), paper (a flat hand), or scissors (a fist with the index and middle fingers extended).
+The hand gestures are compared to determine the winner of the round. The rules are as follows:
+Rock beats scissors (scissors cut paper, and paper covers rock)
+Scissors beats paper (scissors cut paper, and paper covers rock)
+Paper beats rock (paper covers rock, and rock crushes scissors)
+If two or more players tie in a round, they must replay that round until there is a clear winner.
+The first player to win a predetermined number of rounds (e.g. 5) is declared the winner.",2025,9.677459716796875,1.0,exp_decay
+L36,Mistral,"Name: ""Chaturanga""
+
+Number of players: 2-5
+
+Equipment needed:
+
+A board with 6x6 squares
+Four pieces of wood or stone (one for each player)
+Four pieces of cloth or paper (one for each player)
+Objective:
+
+The objective of the game is to capture the opponent's king, while protecting your own.
+
+Setup:
+
+Each player chooses a piece of wood or stone to represent them on the board.
+Each player chooses a piece of cloth or paper to represent their army.
+Place the four pieces of cloth or paper in the four corners of the board.
+Place the four pieces of wood or stone in the center of the board, one on each side of the four pieces of cloth or paper.
+Place the king piece in the center of the board, on the square where the four pieces of cloth or paper intersect.
+Gameplay:
+
+The first player moves their piece diagonally across any number of squares.
+The second player moves their piece diagonally across any number of squares, but only if the first player's piece is not on the square they are moving to.
+The third player moves their piece diagonally across any number of squares, but only if the second player's piece is not on the square they are moving to.
+The fourth player moves their piece diagonally across any number of squares, but only if the third player's piece is not on the square they are moving to.
+The fifth player moves their piece diagonally across any number of squares, but only if the fourth player's piece is not on the square they are moving to.
+The game ends when one player's king is captured by an opponent's piece.",2025,9.739789962768555,2.0,exp_decay
+L37,Mistral,"Equipment needed:
+
+A deck of cards with spice cards (e.g. cinnamon, cardamom, cloves, nutmeg, etc.)
+A spice grinder or mortar and pestle
+A spice container or bag
+A dice
+Objective:
+
+The objective of the game is to collect as many spice cards as possible by rolling the dice and moving around the board.
+
+Setup:
+
+Shuffle the spice cards and place them face down in a pile.
+Set up the board with spaces for each player to move their spice container or bag.
+Each player starts with one spice card in their container or bag.
+Gameplay:
+
+Players take turns rolling the dice and moving their spice container or bag the number of spaces indicated on the dice.
+If a player lands on a space with a spice card, they can pick it up and add it to their container or bag.
+If a player lands on a space with a spice card that they already have in their container or bag, they can discard one of their existing spice cards.
+If a player lands on a space with a spice card that they do not have in their container or bag, they must draw a spice card from the pile and add it to their container or bag.
+The game ends when all players have reached the end of the board. The player with the most spice cards in their container or bag is declared the winner.",2025,10.0,3.0,exp_decay
+L38,Mistral,"Name: ""Chai-Chai""
+
+Number of players: 2-5
+
+Equipment needed:
+
+A large pot or container
+A stove or fire pit
+A variety of spices (such as cinnamon, cardamom, ginger, and cloves)
+Milk or water
+Sugar
+A small amount of butter or oil
+A large spoon or ladle
+Objective:
+
+The objective of the game is to make the best-tasting chai.
+
+Gameplay:
+
+Divide the players into two teams.
+Each team will take turns adding spices to the pot, starting with cinnamon and ending with cloves.
+After all the spices have been added, the teams will take turns adding milk or water to the pot, stirring well to combine.
+Once the pot is full, the teams will take turns adding sugar to the pot, stirring well to combine.
+Finally, the teams will take turns adding a small amount of butter or oil to the pot, stirring well to combine.
+The teams will then take turns pouring the chai into small cups and tasting it.
+The team that makes the best-tasting chai will be declared the winner.
+Rules:
+
+Players cannot touch the pot or stir the chai once it has been added to the pot.
+Players cannot taste the chai until it has been added to the pot.
+Players cannot add more than one spice at a time.
+Players cannot add more than one cup of milk or water to the pot.
+Players cannot add more than one tablespoon of sugar to the pot.
+Players cannot add more than one teaspoon of butter or oil to the pot.",2025,10.0,7.5,exp_decay
+L39,Mistral,"Name: ""The Great Hunt""
+
+Number of players: 2-5
+
+Equipment needed:
+
+A ball made of animal skin or a stone
+A stick or a club
+A target made of wood or stone
+Objective:
+
+The objective of the game is to hit the target with the ball using the stick or club. The player who hits the target the most times wins.
+
+Gameplay:
+
+The players stand in a circle around the target.
+The ball is placed in the center of the circle.
+The players take turns hitting the ball with the stick or club.
+If the ball hits the target, the player who hit it gets a point.
+If the ball goes out of the circle, the player who hit it loses their turn.
+The game continues until a predetermined number of points have been scored, or until a set amount of time has passed.",2025,9.717952728271484,6.0,exp_decay
+L40,Mistral,"Objective: The objective of the game is to be the first player to gather all the necessary resources (food, water, shelter, and weapons) and establish a permanent settlement in the designated area.
+
+Number of players: 2-5
+
+Equipment needed:
+
+A game board representing the medieval American landscape
+A deck of resource cards (food, water, shelter, and weapons)
+A set of player tokens
+A dice
+A piece of paper and pen for keeping score
+Setup:
+
+Shuffle the resource cards and place them face down on the game board.
+Each player chooses a player token and places it on the starting square of the game board.
+Determine the player order by rolling the dice.
+Gameplay:
+
+On each turn, the player rolls the dice and moves their player token the number of squares indicated.
+If a player lands on a square with a resource card, they may pick it up and add it to their inventory.
+If a player lands on a square with a resource card that is already in their inventory, they may discard it and draw a new resource card.
+If a player lands on a square with a resource card that is not in their inventory, they must pay the cost of the resource card in order to pick it up.
+If a player lands on a square with a resource card that is in their inventory, they may use it to establish a permanent settlement and win the game.
+If a player lands on a square with a resource card that is not in their inventory and they do not have the necessary resources to pay the cost, they must discard their current resource cards and draw new ones.
+The game continues until one player has established a permanent settlement and won the game.",2025,9.823590278625488,6.0,exp_decay
+L41,Mistral,"Number of players: 2-5
+
+Equipment needed:
+
+A deck of cards
+A timer
+A piece of paper and a pen
+Objective:
+
+The objective of the game is to escape from a virtual prison by completing a series of tasks within a set time limit.
+
+Setup:
+
+Shuffle the deck of cards and place them face down on the table.
+Write down a list of tasks on the piece of paper. These tasks can be simple, such as ""sing the national anthem"" or ""do five jumping jacks,"" or more challenging, such as ""tell a joke"" or ""solve a math problem.""
+Set the timer for a predetermined amount of time (e.g. 10 minutes).
+Gameplay:
+
+The first player draws a card from the deck and reads the task out loud.
+The player then attempts to complete the task within the time limit.
+Once the player has completed the task, they write it down on the piece of paper.
+The player then passes the card to the next player, who reads the task and attempts to complete it.
+The game continues in this way until all players have completed a task.
+Once all players have completed a task, the player with the most tasks completed on their list wins the game.",2025,9.794513702392578,6.0,exp_decay
+L42,Mistral,"Number of players: 2-5
+
+Equipment needed:
+
+A small wooden board or cardboard
+A set of dice
+A few small pieces or tokens to represent the players
+A small cloth or paper to represent the castle walls
+Objective:
+
+The objective of the game is to capture the castle by rolling the dice and moving your piece around the board.
+
+Setup:
+
+Place the castle walls on the board or cardboard.
+Each player chooses a piece or token to represent them.
+Each player rolls the dice once to determine their starting position on the board.
+Gameplay:
+
+On each turn, the player rolls the dice and moves their piece around the board.
+If the player lands on a space with a castle wall, they must roll the dice again to see if they can break through the wall. If they roll a 6, they can break through the wall and move their piece inside the castle.
+If the player lands on a space with an enemy piece, they can challenge the enemy to a duel. The two players roll the dice and the higher roller wins the duel. The loser must move their piece back to their previous space.
+If the player lands on a space with a treasure chest, they can open it and take the treasure.
+The game ends when one player has captured the castle by rolling a 6 on a space with a castle wall.",2025,9.771012306213379,6.0,exp_decay
+L43,Mistral,"Objective: To be the first player to collect all four required items (a sword, a shield, a bow, and arrows) and defeat the opponent in a duel.
+
+Number of players: 2-5
+
+Equipment needed:
+
+A deck of cards
+A pen and paper
+A piece of paper or cloth for each player
+A small object (such as a coin or a stone) for each player
+Setup:
+
+Shuffle the deck of cards and place it face down on the table.
+Each player should draw a piece of paper or cloth and place it in front of them.
+Each player should place their small object in front of them.
+The player to the left of the dealer goes first.
+Gameplay:
+
+On each turn, the player draws a card from the deck.
+The player must then choose one of the following actions:
+Take a card from another player's pile and add it to their own pile.
+Take a card from the top of the deck and add it to their own pile.
+Discard a card from their own pile.
+If the player draws a card that matches one of the items they need to win (sword, shield, bow, or arrows), they can take that card and place it in front of them.
+If the player draws a card that matches an item their opponent needs to win, they can take that card and place it in front of themselves.
+If the player draws a card that matches an item they both need to win, the player to the left of the dealer goes again.
+If the player draws a card that does not match any of the items needed to win, they must discard it.
+The game continues until one player has collected all four required items and defeated their opponent in a duel.
+Duel:
+
+The two players with the most items needed to win (sword, shield, bow, and arrows) face off in a duel.
+Each player rolls a die to determine the order of attack.
+The first player attacks with their sword, shield, bow, or arrows.
+The second player defends with their own sword, shield, bow, or arrows.
+The first player to defeat their opponent in a duel wins the game.",2025,9.820206642150879,5.5,exp_decay
+L44,Mistral,"Name: ""European Connection""
+
+Objective: Be the first player to connect with all the other players in the game.
+
+Materials:
+
+A map of Europe
+A pen or pencil
+A piece of paper
+Setup:
+
+Each player chooses a different colored marker on the map of Europe.
+Each player writes their name on a piece of paper and places it in a hat.
+Shuffle the hat and draw one name at a time.
+Each player marks their starting location on the map with their colored marker.
+Gameplay:
+
+On each turn, the player draws a name from the hat and tries to find the location of the player with that name on the map.
+Once the player finds the location, they mark it on their map with their colored marker.
+If the player cannot find the location, they must return the name to the hat and draw another name.
+The first player to connect with all the other players in the game is declared the winner.",2025,9.821529388427734,6.0,exp_decay
+L45,Olmo,"Players are tribespeople embarking on a journey across the savannah to find the best place to settle. They need to manage their resources, avoid dangers, and work together to ensure the tribe's survival.
+
+Materials Needed:
+
+A large cloth or sheet to represent the savannah.
+Small stones or beans to represent food, water, and other resources.
+Small wooden sticks or twigs to represent tribe members.
+Small figurines or rocks to represent animals (predators and prey).
+Small pieces of cloth or paper to denote landmarks (oases, mountains, rivers).
+Players: 2-5 players with each player representing a different family within the tribe.
+
+Setup:
+
+Scatter resources, animals, and landmarks across the savannah cloth.
+Each player places their tribe members (wooden sticks or twigs) at the start line, which is one end of the cloth.
+Gameplay:
+
+Turns: Players take turns moving their tribe members across the savannah, attempting to reach a pre-designated 'ideal settlement' landmark. The distance can be determined by the length of the cloth or agreed upon by the players.
+
+Movement: Players roll a single six-sided die to determine how many spaces they can move. If a player lands on a resource, they may collect it and store it for use later in the game.
+
+Challenges:
+
+Predator Encounters: If a player lands on a predator, they must roll a die. On a roll of 1 or 2, they lose a tribe member. On a roll of 3-6, they successfully fend off the predator but must give up a resource to do so.
+Resource Management: Players must manage their food and water resources. Each turn, they must consume 1 food and 1 water per tribe member. If they run out, they lose tribe members.
+Landmarks: Landing on an oasis provides additional water and food, while rivers allow for faster movement.
+Cooperation: Players can trade resources or help each other fend off predators. However, the first player to reach the ideal settlement with at least half of their tribe members wins the game.
+
+Winning:
+
+The first player to reach the settlement with at least half their tribe members intact and resources to sustain them wins. If multiple players succeed on the same turn, the one with the most resources wins.
+",2025,9.797937393188477,5.5,exp_decay
+L46,Olmo,"To navigate the treacherous landscapes of medieval Africa and be the first to return safely to the village with the most valuable treasure.
+
+Equipment Required:
+
+Small stones or pebbles (for game markers)
+A large drawn or marked game board on the ground: a 5x5 grid (25 squares) using sticks and soil
+A few simple wooden figurines or shells to represent players
+A small pouch or bag (for ""treasures"" - to be filled with any small, natural objects like seeds, leaves or berries)
+Setup:
+
+Draw a 5x5 grid on the ground. This represents the treacherous landscape, filled with hidden dangers and treasures.
+Each player selects a unique game marker (wooden figurine or shell) and a small pouch for their collected treasures.
+Place the figurines on the starting square (bottom left corner) of the grid.
+Rules:
+
+Each player rolls a stone to determine who goes first (the smoothest stone win).
+Each turn, a player rolls a stone:
+A smooth roll = move forward one square (in any direction, including diagonally)
+A rough roll = skip your turn (the rough side of the stone signifies an obstacle)
+If a player lands on an occupied square, they must engage in a ""treasure trade"" where both players close their eyes, reach into their opponent's treasure pouch, and try to grab an item. They keep whatever they can grab.
+On squares marked with a symbol (drawn before the game to represent hidden dangers or treasures), a player must:
+Draw a ""danger"" or ""treasure"" token from a small pile prepared at the game's start (tokens should be prepared by writing on small pieces of paper or sticks). If it's a danger, skip the next turn; if it's a treasure, collect a small natural item from the ""treasure"" pouch.
+The game ends when a player returns to the starting square with their pouch filled with predetermined number of treasures (agreed upon by all players).
+Winning the Game: The first player to return to the starting square with the agreed upon number of treasures in their pouch is proclaimed the victor and named ""Asante,"" meaning ""Thank you"" in Swahili, for their successful quest and the treasures they bring back to the village.",2025,9.798637390136719,4.5,exp_decay
+L47,Olmo,"African Jungle Treasure Hunt is an exploration and strategy game designed for 2-5 players, requiring minimal equipment. This game encourages teamwork, strategic thinking, and physical activity. It can be played in the diverse landscapes of Africa, taking advantage of the natural environment.
+
+Equipment Needed:
+
+1 brightly colored cloth or flag (to symbolize the treasure)
+5 small stones, each uniquely painted or marked (as markers for players)
+A blindfold (optional for a variation of the game)
+Chalk (optional, for marking boundaries)
+Setup:
+
+Choose a safe open outdoor space where players can freely move around, such as a park or open field.
+Designate a starting point and an area for the ""treasure"" to be hidden.
+Use the chalk to mark a start line if available and create a boundary to limit the hunting area.
+One player, chosen as the ""Guardian of the Jungle"" (GOJ), hides the ""treasure"" within the designated area while other players count to 20 at the start line.
+Objective: The players must work together to find the hidden treasure using team strategy and communication. The first player to touch the treasure becomes the new GOJ for the next round.
+
+Rules:
+
+Players start at the start line and can only move when the GOJ says ""Jungle Hunt Begins.""
+Players must stay within the marked boundaries.
+Players can form alliances, share information, and strategize on how to find the treasure.
+If the GOJ sees a player stepping out of the boundary, they must return to start line and sit out for 1 minute.
+The GOJ can give clues at their discretion. For example, if a player is getting close to the treasure, the GOJ can make a jungle animal sound.
+If a variation with the blindfold is desired, the GOJ can be blindfolded, and the players must communicate verbally to guide each other to the treasure.
+The game continues with new rounds, and each player takes turns being the GOJ, encouraging everyone to participate and think strategically.
+Winning the Game: The game continues for a set number of rounds or until everyone has had a chance to be the GOJ. Players can decide on a reward for the player who found the treasure the most times or enjoyed the game the most.",2025,9.810712814331055,4.5,exp_decay
+L48,Olmo,"1 die (similar to a six-sided die used in ancient Chinese games)
+5 White stones
+5 Black stones
+1 Jade marker (a small piece of jade, or a similarly valued stone, to represent the prize or goal)
+A simple grid drawn on the ground, made up of 20 squares in a straight path (like a simplified Snakes and Ladders board without the snakes and ladders).
+Objective: Be the first to reach the Jade marker and claim it, or be in the lead if multiple players reach it simultaneously.
+
+Setup:
+
+The Jade marker is placed at the 20th square.
+Each player chooses a color (white or black) and takes their corresponding stones.
+Players roll the die to determine the starting player (highest roll starts).
+Rules:
+
+Each player takes turns rolling the die and moving their stone along the path. The number rolled is the number of squares they can move their stone.
+If a player lands on a square that already has an opponent's stone, the opponent's stone is returned to the start, and the turn ends for the player whose stone was displaced.
+If a player rolls a six, they get an additional roll. There is no limit to the number of sixes that can be rolled consecutively.
+If a player lands on the 20th square (where the Jade marker is placed), they have the opportunity to claim the Jade marker if they roll a number that would allow them to land on it again on their next turn (to symbolize the care needed to secure the prize).
+To claim the Jade marker, the player must roll exactly the amount needed to land on the Jade marker square again on their next turn. If they overshoot or do not roll, their stone remains on the 20th square, but they do not claim the Jade marker yet.
+If multiple players are on the 20th square and all roll successfully to claim the Jade marker, the player who does so first (during their turn sequence) claims the Jade marker.
+Winning:
+
+The first player to claim the Jade marker by rolling the exact number to land on it again and moving their stone onto the marker's square wins the game.
+In case of a tie (multiple players claiming the Jade marker on the same round but in sequence), the player who rolled and claimed it first in the turn order is declared the winner.
+Variation for 5 Players:
+
+Introduce a second Jade marker (or a different valued stone) placed at square 10. This allows for an intermediate goal and can provide a strategic advantage.
+Adjust the grid to 30 squares to accommodate the additional distance and add more strategy to the game.",2025,9.753971099853516,5.5,exp_decay
+L49,Olmo,"""The Emperor's Path"" is a strategy-based, storytelling, and cooperative game, played using limited equipment. It is set in medieval East Asia, with players taking on roles of officials, warriors, and scholars. Their goal is to navigate and protect the Emperor through a dangerous path to his hidden sanctuary.
+
+Equipment Needed:
+
+A set of small stones or pebbles (at least 50)
+A large cloth or paper with a drawn map of the path (divided into 10-15 sections)
+Tokens (preferably coins, shells or small carved wooden pieces) to represent the players and the Emperor
+A six-sided die or a simple random number generator (handmade or improvised)
+Paper and pen for scorekeeping and storytelling
+Game Objective: The players must work together to guide the Emperor safely through the perilous path to the sanctuary by overcoming various challenges. They win if the Emperor reaches the sanctuary. If the Emperor is captured or defeated, all players lose.
+
+Game Play:
+
+Players decide on their roles: Official (good at negotiation), Warrior (good at combat), and Scholar (good at problem-solving). A fifth role, the Spy, can be added for more players, who can either help or hinder the group's efforts.
+
+The Emperor's token starts at the beginning of the path. The other tokens start one section behind the Emperor.
+
+Each player takes turns rolling the die to determine their action:
+
+1-2: Encounter a challenge (draw a challenge card and negotiate or fight based on the scenario)
+3-4: Protect the Emperor (move your token forward to the Emperor's position and provide defense)
+5-6: Assist in Emperor's journey (move the Emperor's token forward one section)
+Challenge Cards: The host (a player not playing as an official character) or any player can create challenges ahead of time on paper, such as bandit attacks, treacherous terrain, or puzzles. These can be as detailed or simple as you like.
+
+Combat and Negotiations: In combat, the Warrior can choose to fight. They roll the die; a 4-6 is a success (more can be added for epic wins), a 1-3 is a failure. In negotiations, the Official rolls, with similar success criteria. Scholars solve riddles or puzzles, which can be solved through verbal reasoning.
+
+Scorekeeping: Each successful challenge overcome grants the players a stone. If a player fails to protect the Emperor or fails a challenge, they lose a stone. The goal is to collect as many stones as possible by the end.
+
+The Spy (optional): This player can secretly decide to help or hinder the group. The Spy can change the outcome of a roll by one point once per turn, but if the Spy is discovered, they must play as a regular player with a penalty (e.g., starting with fewer stones).
+
+Storytelling: Players should narrate their actions and the consequences, building a collective story of their journey. This encourages creativity and entertainment, even with minimal equipment.
+
+Winning the Game: The Emperor successfully reaching the sanctuary marks the end of the game. Players count their stones, with the highest scorer earning the title of ""Majestic Councilor"", but all players who helped the Emperor win are celebrated as heroes.",2025,9.821749687194824,7.0,exp_decay
+L50,Olmo,"The aim of Bamboo Tag is to be the last player standing without getting tagged while using limited resources—a couple of bamboo sticks and a small, lightweight ball (or any small spherical object like a scrunched-up piece of paper or a small fruit).
+
+Equipment Needed:
+
+2 bamboo sticks, each about 1 meter long (if unavailable, use sticks from any sturdy plant or substitute with lightweight rods).
+1 small, lightweight ball (as mentioned above, could be a scrunched-up piece of paper, a small fruit, or a small rubber ball).
+Number of Players: 2-5 players
+
+Setup:
+
+The playing area should be an open space, ideally a flat field or a large courtyard. A rectangular shape about 20m long and 10m wide should suffice.
+Mark a small circle in the center of the field which will be the ""Tag Zone.""
+Two players are designated as ""Taggers."" They will hold the bamboo sticks.
+Rules:
+
+Start: Taggers stand inside the Tag Zone. All other players stand outside the Tag Zone and at least 5 meters away from the Tag Zone.
+The Ball: The ball is placed in the center of the Tag Zone.
+Tagging: Taggers can only tag other players outside the Tag Zone by using the bamboo sticks to touch them. Taggers are not allowed to leave the Tag Zone, but they can move within it.
+Escape: Non-taggers try to retrieve the ball without getting tagged. If a non-tagger gets tagged, they sit down at the spot where they were tagged, but can still try to touch the ball when it passes close to them.
+Bamboo Dodge: Non-taggers can use agility to dodge the bamboo sticks. They should also strategize to create distractions for other non-taggers to grab the ball.
+Ball Retrieval: If a non-tagger retrieves the ball, they must return to the perimeter of the field without getting tagged. Once safely on the perimeter, they can choose to either attempt a throw to hit one of the Taggers (if successful, the thrower and all seated players return to the game) or keep the ball to dodge and wait for a better opportunity.
+Winning: The game continues until all non-taggers are tagged and sitting down, or until one non-tagger remains untagged and has successfully returned to the perimeter with the ball multiple times as decided by the group (e.g., three successful retrievals).
+Variations:
+
+Increase the challenge by allowing Taggers to tag with their hands when they retrieve the ball from a non-tagger.
+Allow Taggers to swap after every round, giving each player a turn with the bamboo stick.",2025,9.779878616333008,3.0,exp_decay
+L51,Olmo,"To be the first player to move their pawn (representative of a humble villager) from the starting point to the finish line, navigating through a series of challenges inspired by ancient Indian folklore and mythology.
+
+Equipment:
+
+A circle drawn on the ground (a patch of dirt or a cleared space).
+Small stones or pebbles (each player needs one) - these serve as the pawns.
+Cowrie shells (preferably 4-5 for dice) or beans, if cowrie shells are not available.
+A handful of pebbles or seeds to keep score.
+Preparation:
+
+Draw a circular board with 8 evenly spaced sections. Each section represents a different challenge (e.g., river crossing, mountain climbing, forest path, village market, etc.).
+Assign each section a number of cowrie shell tosses needed for a successful challenge.
+Gameplay:
+
+Each player chooses a pebble as their pawn and places it at the start line, which is marked at the edge of the circle.
+The first player tosses the cowrie shells. The number of cowries landing with the convex side up indicates the number of spaces the player can move.
+Players must announce a story or short tale related to the challenge (section number) they're attempting to move to. Creativity is rewarded; a good story might allow a player to move forward even if they didn't roll enough cowries to reach that section.
+If a player lands exactly on the same section as another player, they must narrate a challenge to overcome the other player, such as ""I tell a more compelling story about the river crossing,"" and if agreed upon by all players as a better story, the displaced player returns to the start of that challenge section.
+If a player fails to tell a story or doesn't roll enough cowries to advance, their turn ends, and they remain in place.
+If a player successfully reaches the finish line (a marked section at the opposite end of the circle) after completing all challenges, they win that round.
+Optional: To keep score, use pebbles or seeds, one for each completed round win. The first player to a predetermined number of wins (e.g., 3) is declared the ultimate champion",2025,9.709705352783203,6.5,exp_decay
+L52,Olmo,"Royal Courtyard is a strategy and bluffing game set in medieval India that requires minimal equipment: a handful of pebbles or stones, a flat surface for play, and a small bag or cloth to keep pebbles hidden.
+
+Objective: Each player attempts to accumulate the most points by outsmarting opponents, predicting their actions, and managing their resources (pebbles).
+
+Number of Players: 2-5 players
+
+Equipment Needed:
+
+At least 20 pebbles or stones per player (small and easily concealable in the palm of the hand)
+A small cloth or bag for each player to carry pebbles
+A flat surface for play
+Setup:
+
+Each player takes an equal number of pebbles (e.g., 20 pebbles each for a total of 100 pebbles if 5 players).
+The players sit in a circle on the flat surface.
+A player is chosen randomly to start the game, typically the youngest or the one who tells the best story of a royal court adventure.
+Gameplay:
+
+Each round, players take turns placing a certain number of pebbles face down in the center of the circle, declaring how many they are placing. They may bluff and declare a different number than they actually place.
+After every player has placed their pebbles and declared the number, the pebbles are revealed simultaneously.
+Points are awarded based on accuracy of declarations:
+If the actual total number of pebbles matches the declared total, all players who declared correctly gain 2 points.
+If the guess was off, no points are awarded.
+Players retrieve their pebbles, and the next player starts a new round.
+Special Rules:
+
+If a player's declaration is incorrect by more than 3 pebbles, they lose 1 point.
+If a player runs out of pebbles, they are out of the game.
+Players can steal an opponent's pebble if they catch a player bluffing by more than 3 pebbles in a single round.
+Winning the Game: The game ends after a predetermined number of rounds or when all players except one are out of pebbles. The player with the most points at the end of the game wins and is declared ""Royal Court Strategist.",2025,9.745912551879883,7.5,exp_decay
+L53,Olmo,"Gully Kabaddi Rush is a fast-paced, exhilarating game inspired by traditional Kabaddi with a modern twist designed for 2 to 5 players (each team can have 1-3 players). The game can be played in open spaces within residential areas (gully) with minimal equipment.
+
+Equipment Needed:
+
+A soft ball (tennis ball or other available soft balls).
+Chalk or a piece of cloth to mark boundaries.
+A whistle (optional, can be replaced with a loud voice for signaling).
+Setup:
+
+Draw a rectangular court with chalk or a piece of cloth. The court should be divided into two equal halves.
+Each half has a ""safety zone"" near the center marked by a small circle where the ""raider"" cannot enter.
+Game Rules:
+
+Teams: Divide the players into 2-3 players per team. If there are more than 2 teams, they take turns to play in a round-robin format.
+Objectives: The primary objective is to outscore the opposing team by scoring points through raiding and defending.
+Raiding: One player from the attacking team (raider) enters the opponent's half to tag players and return to their half without being caught. The raider must chant ""Kabaddi"" continuously to prove they are not inhaling.
+Defending: Players in the defending half must prevent the raider from returning to their half without being tagged themselves. They can also try to grab the ball thrown by the raider and return it before the raider crosses back.
+Scoring:
+Raider tags a defender and returns safely: 1 point.
+Defender grabs the thrown ball and returns it before the raider crosses back: 1 point for the defense.
+If the raider fails to chant ""Kabaddi,"" it's a point for defense.
+If a defender is tagged and fails to stop the raider, it's a point for the raider.
+Special Twist: Gully Power:
+
+Each team gets 3 ""Gully Powers"" per game which can be used once. These powers include:
+""Gully Freeze"" (pause the game for 5 seconds for strategic planning).
+""Gully Sprint"" (raider gets a 2-second head start).
+""Gully Guardian"" (extra defender in the safety zone for one raid).
+Game Duration: The game can be played for a set amount of time (like 10-15 minutes per round). Teams switch sides after each round. The team with the most points at the end wins.",2025,9.649314880371094,5.5,exp_decay
+L54,Olmo,"To score points by tossing a small stone (tecpatl) into a designated area marked on the ground. The player with the highest score after a predetermined number of rounds wins.
+
+Equipment Needed:
+
+Small, flat stones (tecpatl) about the size of a palm.
+Chalk or natural pigments to draw the target area on the ground.
+Measuring rope or a counting system (like knots on a string) to delineate distances.
+Setup:
+
+Draw a large concentric circular target area on the ground with the center being the smallest circle and each subsequent circle getting larger. The circles can represent increasing score values, with the smallest circle in the center having the highest points.
+Establish a throwing line a few feet away from the target area. The distance can vary based on player age and skill level.
+Decide on the number of rounds to be played. For example, 5 rounds can be suitable for a 2-5 player game.
+Rules:
+
+Each player takes turns to throw their tecpatl towards the target area.
+Points are awarded based on where the tecpatl lands. The center circle gets the highest points and each subsequent larger circle gets fewer points. If the tecpatl lands outside the outermost circle, no points are awarded for that round.
+If the stone lands on a line, it counts towards the lower point value circle.
+Players retrieve their tecpatl after each round and proceed to the next round.
+Keep track of scores using the knots on a string or by other means available.",2025,9.728873252868652,3.0,exp_decay
+L55,Olmo,"Navigate through a series of challenges to collect the most Wampum beads and earn the title of ""Wampum Warrior.""
+
+Equipment Needed:
+
+Wampum beads (could be represented by any small, similarly sized objects like beans or pebbles in a pinch)
+Sticks (5 per player)
+A large central circle drawn on the ground or marked by stones
+Two small stones or markers
+Setup: Each player starts with 5 sticks. The Wampum beads are scattered around the playing area outside the circle. Two markers are placed inside the circle, representing the ""Spirit Guardians.""
+
+Rules:
+
+Turn Order: Players decide the turn order, ideally based on a fair method such as rock, paper, scissors. Play proceeds clockwise.
+
+Player's Turn:
+
+a. Draw a Stick: On their turn, a player draws a stick from their pile. The stick represents their ""arrow"" shot or ""path"" to take.
+
+b. Throw the Stick: The player throws their stick towards the scattered Wampum beads, aiming to make it land as close as possible to a bead without touching it.
+
+c. Collect Wampum: If the stick lands within a hand's reach of a Wampum bead without touching it, the player picks up the bead and adds it to their collection. If the stick touches a Wampum bead, no bead is collected, and the player's turn ends.
+
+d. Spirit Guardians: If the stick lands inside the circle (the realm of the Spirit Guardians), the player must skip their next turn as they have angered the spirits.
+
+e. Limited Supply: If a player collects a Wampum bead, they discard their stick, carrying only the collected Wampum beads.
+
+Winning the Game:
+
+a. First to 10 Wampum Beads: The first player to collect 10 Wampum beads wins the title of ""Wampum Warrior.""
+
+b. End Game Condition: If all sticks are used and no player reaches 10 Wampum beads, the player with the most beads wins.
+",2025,9.797991752624512,8.0,exp_decay
+L56,Olmo,"Players aim to hit a target with a ball or object while standing in a circular formation. The player who hits the target the most times within a set number of rounds wins.
+
+Equipment Needed:
+
+A soft, throwable ball or bean bag (like a small hacky sack)
+A target (e.g., a can, a marked spot on the ground, or a small hoop)
+Optional: a soft stick or bat (e.g., a broom handle or a small paddle) to hit the ball
+Chalk or markers to draw the circle
+Setup:
+
+Draw a large circle on the ground using chalk or markers and mark a smaller circle or place the target in the center.
+Divide players into teams if playing with 4 or 5 players; in 2-player mode, individuals will compete directly.
+Rules:
+
+Players stand outside the large circle, equally spaced around the perimeter.
+Each round, a player is chosen as the ""pitcher"" to throw or bat the ball towards the target.
+The pitcher attempts to hit the target by throwing the ball or using the bat to hit the ball towards it.
+If the pitcher hits the target, they earn a point for their team.
+After their attempt, the pitcher moves clockwise to the next position, and the next player becomes the pitcher.
+Rounds continue until each player has had a set number of turns as pitcher (e.g., once each for a 2-player game, or three times each for a 3-player game, adjusting based on the total number of players).
+Points can be tallied and compared after each round or at the end of the game.
+If a player throws outside the circle or doesn't hit the target, no points are awarded.
+The player or team with the most points at the end of the set number of rounds wins the game.",2025,9.697882652282715,4.0,exp_decay
+L57,Olmo,"In this strategic role-playing dice and storytelling game, players embody travelers in ancient Europe, seeking out new lands and spreading tales of their adventures. Success is measured by the tales collected and the lands explored.
+
+Equipment:
+
+5 small stones or pebbles (for dice)
+A small cloth or canvas bag to hold the stones
+A collection of simple tokens (e.g., leaves, sticks, or small stones)
+A map drawn on parchment (or a simple paper) representing ancient Europe
+A collection of small trinkets (e.g., beads, buttons, or coins) for ""tales"" or points
+A storyteller token (a unique item like a feather or a special stone)
+Setup:
+
+Players take turns to roll the stones in the bag. Stones landing face-up (with a smooth side) count as 1, otherwise, they count as 0. Each player rolls three stones and totals the score. The player with the highest total score becomes the starting Traveler and holds the storyteller token.
+
+The map is laid out and landmarks are marked: forests, rivers, mountains, villages, etc. Each landmark has a value representing the difficulty to cross or the richness of tales from that area.
+
+Rules:
+
+On their turn, the Traveler narrates a short story of their journey to a chosen landmark. The more creative and engaging the story, the more points (tales) they can earn. The other players may award points based on their enjoyment of the story (1-3 tales per player).
+
+The Traveler must ""roll"" for their journey to the chosen landmark. They roll the stones, and the total must be equal to or higher than the landmark value to succeed. If successful, they ""collect"" the landmark token and place it in front of them. If not, they remain in their current spot and lose their turn.
+
+After the story and roll, the storyteller token is passed to the next player, who then becomes the new Traveler.
+
+The game ends when all landmarks are claimed or after a predetermined number of rounds. The player with the most tales (collected tokens) wins.",2025,9.797977447509766,9.0,exp_decay
+L58,Olmo,"Players will compete to be the highest-ranking knight by completing tasks and earning points. The winner is the player with the most points after a set number of rounds or a predetermined time limit.
+
+Equipment:
+
+A deck of handmade cards (You can make them from parchment or thick paper, divided into three categories: Tasks, Titles, and Treasure).
+Some simple tokens, like pebbles or wooden discs, to represent points.
+A bag or hat to draw cards from.
+A simple scoring board (chalk and a slate or just a tally on a wall or parchment).
+Setup:
+
+Cards Creation:
+
+Tasks (x20 cards): Simple tasks such as ""collect water from the well,"" ""chop wood,"" or ""guard the gate.""
+Titles (x5 cards): These cards represent rank upgrades, like ""Squire,"" ""Knight,"" etc., each with a point value.
+Treasure (x5 cards): These are bonuses, like ""find a hidden coin purse"" or ""win a joust,"" with point values.
+Note: For simplicity, the cards can be text only, or if you have the time, you can draw simple illustrations.
+
+Point Tokens: Use about 20 tokens to start.
+
+Scoring Board: Set up a simple way to track points.
+
+Gameplay:
+
+Deal: Shuffle all cards together and place them face down. Draw cards to determine the starting player.
+Round Start: Each player draws a Task card and reads it aloud.
+Task Completion: Players must complete their tasks as described.
+Tasks can be simple, real-life actions, such as fetching water or chopping wood.
+If a player cannot complete the task due to lack of resources, they forfeit their turn and draw a new Task card next round.
+Point Scoring:
+Fulfilling a Task card earns 1 point.
+If a player draws a Title card, they exchange it for points (Squire = 2 points, Knight = 5 points, etc.) and place it on the scoring board or in a designated area.
+If a player draws a Treasure card, they gain the points immediately.
+Special Rules:
+
+Once per game, a player can challenge another player to a simple contest (like a footrace or arm wrestling) with the winner gaining an extra point.
+Players can also trade Task cards with one another if they both agree.
+Game End: The game continues until designated time is up or a set number of rounds have been played. The player with the most points wins and is crowned the highest-ranking knight.",2025,9.815369606018066,8.0,exp_decay
+L59,Olmo,"""Europe's Bridges"" is a strategic card game for 2-5 players, set against the backdrop of Europe's iconic bridges. The game is inspired by the continent's rich history and stunning architecture. The game requires a standard deck of playing cards, a pen, and paper for scorekeeping, and optionally, small tokens (such as poker chips, buttons, or coins) to mark territories.
+
+Objective: The objective of the game is to connect your cities across Europe by building bridges over rivers and gaining control of the most important bridges. To win, a player must have the highest score, which is calculated by the value of bridges they control and the size of their connected city network at the end of the game.
+
+Preparation:
+
+Shuffle the deck of cards and deal 5 cards to each player. The remaining cards form the draw pile.
+Each player selects a token to represent their cities and places it on the table.
+Create a score sheet for each player.
+Game Play:
+
+Turn Order: The game proceeds in a clockwise direction with each player taking a turn.
+On each turn, a player may choose to: a. Draw a card from the draw pile. b. Play a card to build a bridge or claim a city.
+Building Bridges:
+Players can play two cards of the same suit and differing numerical values to build a bridge.
+The bridge is named after a real European bridge and is placed in the middle of the table. The player places their token at either end of the bridge to mark their control.
+Aces are low in this game and cannot form a ""bridge pair"" with another Ace.
+Claiming Cities:
+Players can play a single card to claim a city. The city is represented by the card value and suit.
+If a city is connected to a bridge controlled by the same player, it becomes part of their network.
+Expanding Networks:
+Players can extend their network by building new bridges that connect to their existing cities and bridges.
+Scoring:
+At the end of the game, which is triggered when the draw pile is empty and all players have passed, players score points.
+Bridges have a base score of 5 points, with additional points for each connected city (1 point per city).
+The player with the largest connected city network scores a 10-point bonus.
+Winning the Game: The player with the highest score after the final scoring wins the game. In case of a tie, the player with the most bridges wins. If still tied, the game is a draw.",2025,10.0,8.0,exp_decay
