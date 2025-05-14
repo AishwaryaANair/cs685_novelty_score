@@ -16,9 +16,10 @@ The analysis includes:
 - Builds a bipartite similarity graph between LLM and human poems.
 - Computes the graph-based creativity score:
 
-\[
-\text{Creativity}_{1–10} = 1 + 9 \cdot (1 - \text{avg similarity})
-\]
+$$
+\text{Creativity}_{1\text{--}10} = 1 + 9 \cdot (1 - \text{avg similarity})
+$$
+
 
 - Outputs:
   - `LLM_Poems_Creativity_Scored_topk.csv`
