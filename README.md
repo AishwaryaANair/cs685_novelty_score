@@ -56,6 +56,9 @@ Each file includes:
 - `60_Prompts_for_LLM_Generation.csv`  
   Structured instructions for generating poems from LLMs, aligned with human themes.
 
+- `All_Poems_Originality_Scored.csv`
+All_Poems_Originality_Scored.csv contains the complete set of human-authored poems along with their thematic categories, identity, and originality scores (judged and got the scored from GPT-4o). It forms the core dataset for all creativity evaluations and comparisons.
+
 ---
 
 ## Output CSVs (in `Results/`)
