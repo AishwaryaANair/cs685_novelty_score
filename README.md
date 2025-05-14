@@ -1,4 +1,4 @@
-# LLM Creativity Benchmark Suite
+# Assessing Novelty in LLMs
 
 This project provides a **comprehensive suite of benchmarks** for evaluating the creative capabilities of Large Language Models (LLMs) across multiple domains:
 
